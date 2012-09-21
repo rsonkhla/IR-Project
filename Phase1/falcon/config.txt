@@ -1,0 +1,2 @@
+/home/csgrad/rsonkhla/data, /home/csgrad/rsonkhla/index_files,
+/home/csgrad/rsonkhla/output, 10

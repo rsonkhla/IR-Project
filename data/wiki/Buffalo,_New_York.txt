@@ -1,0 +1,1001 @@
+<<Author>>: ClueBot NG-13286072
+<<Timestamp>>: 2011-08-26T18:32:09Z
+<<Comment>>: Reverting possible vandalism by [[Special:Contributions/76.165.218.227|76.165.218.227]] to version by LtPowers. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (553077) (Bot)
+<<WikiText>>: {{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name = City of Buffalo |settlement_type = [[City (New York)|City]]
+|nickname = The City of Good Neighbors, The Queen City, The City of No Illusions, The Nickel City, Queen City of the Lakes, City of Light
+|image_skyline = BuffaloSkyline.jpg
+|imagesize =
+|image_caption =
+|image_flag = Flag of Buffalo, New York.svg
+|image_seal = Buffalo Seal.svg
+|image_map = Map_of_New_York_highlighting_Buffalo.svg
+|mapsize = 250x200px
+|map_caption = Location of Buffalo in New York State
+|image_map1 = MapOfBuffalo.jpg
+|mapsize1 = 200x200px
+|map_caption1 = City of Buffalo street map
+<!-- Location ------------------>
+|coordinates_display = inline,title
+|coordinates_region = US-NY
+|subdivision_type = [[List of countries|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[US state|State]]
+|subdivision_name1 = [[New York]]
+|subdivision_type2 = [[List of counties in New York|County]]
+|subdivision_name2 = [[Erie County, New York|Erie]]
+<!-- Politics ----------------->
+|government_type =
+|leader_title = [[List of mayors of Buffalo, New York|Mayor]]
+|leader_name = [[Byron Brown]] ([[United States Democratic Party|D]])
+|leader_title1 = [[city council|Common Council]]
+| leader_name1 = {{Collapsible list
+|title = Members' List
+|frame_style = border:none; padding: 0;
+|title_style = <!-- (optional) -->
+|list_style = text-align:left;display:none;
+|1 = Delaware District:
+|2 = • Michael LoCurto ([[United States Democratic Party|D]])
+|3 = Ellicott District:
+|4 = • Darius G. Pridgen ([[United States Democratic Party|D]])
+|5 = Fillmore District:
+|6 = • David Franczyk ([[United States Democratic Party|D]]) Pres.
+|7 = Lovejoy District:
+|8 = • Richard A. Fontana ([[United States Democratic Party|D]])
+|9 = Masten District:
+|10 = • Demone A. Smith ([[United States Democratic Party|D]])
+|11 = Niagara District:
+|12 = • David A. Rivera ([[United States Democratic Party|D]])
+|13 = North District:
+|14 = • Joseph Golombek, Jr. ([[United States Democratic Party|D]])
+|15 = South District:
+|16 = • Michael P. Kearns ([[United States Democratic Party|D]])
+|17 = University District:
+|18 = • Bonnie E. Russell ([[United States Democratic Party|D]])
+}}
+|established_title = First Settled
+|established_date = 1789
+|established_title2 = Founded
+|established_date2 = 1801
+|established_title3 = Incorporated (City)
+|established_date3 = 1832
+<!-- Area --------------------->
+|unit_pref = Imperial
+|area_footnote =
+|area_magnitude = 1 E9
+|area_total_km2 = 136.0
+|area_land_km2 = 105.2
+|area_water_km2 = 30.8
+|area_total_sq_mi = 52.5
+|area_land_sq_mi = 40.6
+|area_water_sq_mi = 11.9
+|elevation_m = 183
+|elevation_ft = 600
+|latd = 42 |latm = 54 |lats = 17 |latNS = N
+|longd = 78 |longm = 50 |longs = 58 |longEW = W
+<!-- Population ----------------------->
+|population_as_of = July 1, 2010
+|population_note =<ref name="population">[http://www.census.gov/popest/cities/SUB-EST2008-4.html US Census Bureau Annual Pop Estimates]. ''census.gov'' , accessed 3-MAR-2009</ref><ref name="demographia">[http://www.demographia.com/db-metrocore2005.htm Metropolitan & Central City Population: 2000–2005]. ''Demographia.com''. Retrieved September 3, 2006.</ref>
+|population_total = 261,310 ([[List of United States cities by population|70th in U.S.]])
+|population_density_km2 = 2568.8
+|population_density_sq_mi = 6656.2
+|population_urban = 976,703 ([[List of United States urban areas|38th in U.S.]])
+|population_metro = 1,135,509 ([[Table of United States Metropolitan Statistical Areas|47th in U.S.]])
+|population_blank2_title = [[Combined statistical area|CSA]]
+|population_blank2 = 1,203,997 ([[Table of United States Combined Statistical Areas|37th in U.S.]])
+|population_demonym = Buffalonian
+<!-- General information --------------->
+|timezone = [[Eastern Time Zone (North America)|EST]]
+|utc_offset = −5
+|timezone_DST = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = −4
+| latitude = 42°54'17" N
+| longitude = 78°50'58" W
+<!-- Area/postal codes & others -------->
+|website = [http://www.city-buffalo.com/ www.city-buffalo.com]
+|postal_code_type =
+|postal_code =
+|area_code = [[Area code 716|716]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 36-11000
+|blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info = 0973345
+|footnotes = <ref name="established1">[http://www.buffalonian.com/history/articles/%3C1800/whitebjoe.html First White Settlement and Black Joe - Buffalo, NY]. ''The Buffalonian''. Retrieved April 15, 2008.</ref><ref name="established2">[http://www.buffalonian.com/history/articles/1801-50/1801.html The Village of Buffalo 1801 to 1832]. ''The Buffalonian''. Retrieved April 15, 2008.</ref>
+}}
+'''Buffalo''' ({{IPAc-en|icon|ˈ|b|ʌ|f|əl|oʊ}}) is the second most populous [[City (New York)|city]] in the [[U.S. state|state]] of [[New York]], after [[New York City]].<ref name="population"/> Located in [[Western New York]] on the eastern shores of [[Lake Erie]] and at the head of the [[Niagara River]] across from [[Fort Erie, Ontario]], Buffalo is the [[county seat|seat]] of [[Erie County, New York|Erie County]]<ref name="erie county">[http://www.erie.gov/overview/ Erie County Government: Overview]. ''Erie County (New York) Government Home Page''. Retrieved April 16, 2008.</ref> and the principal city of the [[Buffalo-Niagara Falls metropolitan area]], the largest in [[Upstate New York]]. Downtown Buffalo is located 17&nbsp;miles (27&nbsp;km) south of [[Niagara Falls]]. Buffalo itself has a population of 261,310 (2010 Census) and the [[Buffalo-Niagara-Cattaraugus, NY CSA|Buffalo–Niagara–Cattaraugus Combined Statistical Area]] is home to 1,215,826 residents.
+
+Originating around 1789 as a small trading community near the eponymous Buffalo Creek,<ref name="established1" /> Buffalo grew quickly after the opening of the [[Erie Canal]] in 1825, with the city as its western terminus. By 1900, Buffalo was the 8th largest city in the [[United States]],<ref name="population rank 1900">[http://www.census.gov/population/documentation/twps0027/tab01.txt Table 1. Rank by Population of the 100 Largest Urban Places, Listed Alphabetically by State: 1790–1990]. ''U.S. Census Bureau''. Retrieved April 16, 2008. {{dead link|date=January 2011}}</ref> and went on to become a major railroad hub,<ref name="railroad">[http://www.buffalonian.com/history/industry/railways/EarlyRailroads1.html Early Railways in Buffalo]. ''The Buffalonian''. Retrieved April 16, 2008.</ref> and the largest grain-milling center in the country.<ref name="milling">"Buffalo as a Flour Milling Center" by Laura O'Day. ''Economic Geography'', Vol. 8, No. 1 (Jan., 1932), pp. 81–93. Published by: Clark University.</ref> The latter part of the 20th Century saw a reversal of fortunes: Great Lakes shipping was rerouted by the opening of the [[St. Lawrence Seaway]], and steel mills and other heavy industry relocated to places such as China.<ref name="Buffalo History">[http://www.buffaloah.com/h/1985.html Buffalo History]. ''Buffalo History''. Retrieved March 31, 2010.</ref> With the start of [[Amtrak]] in the 1970s, [[Buffalo Central Terminal]] was also abandoned, and trains were rerouted to nearby [[Depew, New York]] ([[Buffalo-Depew (Amtrak station)|Buffalo-Depew]]) and [[Buffalo-Exchange Street (Amtrak station)|Exchange Street Station]]. By 1990 the city had fallen back below its 1900 population levels.<ref name="US Census Bureau">[http://www.census.gov/population/cencounts/ny190090.txt U.S. Census Bureau]. Retrieved March 31, 2010.</ref>
+
+Today, the region's largest economic sectors are health care and education,<ref name="City-Data">[http://www.city-data.com/us-cities/The-Northeast/Buffalo-Economy.html Buffalo: Economy]. ''City-Data.com''. Retrieved March 31, 2010.</ref> and these continue to grow despite the lagging national and worldwide economies.<ref name="NYS Senate">[http://www.nysenate.gov/report/economic-summary-western-new-york-region Economic Summary: Western New York Region]. ''New York State Senate''. Retrieved March 31, 2010.</ref> This growth has been maintained, in part, by major expansions of the Buffalo Niagara Medical Campus<ref name="BNMC">[http://urbandesignproject.ap.buffalo.edu/projects/bnmc/index.htm Buffalo Niagara Medical Campus]. ''Urban Design Project''. Retrieved March 31, 2010.</ref> and [[University at Buffalo, The State University of New York|The University at Buffalo.]]<ref name="UB 2020">[http://www.buffalo.edu/ub2020/overview/whatis.html What is UB 2020?]. ''University at Buffalo''. Retrieved March 31, 2010.</ref> The retail sector of the economy is strong with additional revenue from Canadian shoppers who wish to take advantage of the lower prices. A recent study showed that Buffalo's May 2011 unemployment rate of 7.5%<ref name="deptofnumber">[http://www.deptofnumbers.com/unemployment/new-york/buffalo/ Buffalo-Niagara Falls, New York Unemployment from http://www.deptofnumbers.com/]. ''www.deptofnumbers.com''. Retrieved March 31, 2010.</ref> In 2010, [[Forbes]] rated Buffalo the 10th best place to raise a family in America.<ref>{{cite news | url = http://www.forbes.com/2010/06/04/best-places-family-lifestyle-real-estate-cities-kids.html| title = America's Best Places to Raise a Family | publisher = Forbes.com | first=Francesca | last=Levy | date=June 7, 2010}}</ref>
+
+==Name origiwikibn==
+In 1798, The Holland Land Company hired Theophile Cazenove of Philadelphia as its agent in the newly established hub for the area in nearby Batavia, NY.  Cazenove then hired Joseph Ellicott, to survey the area and establish a village next to Buffalo Creek. Ellicott decided to utilize the spoke pattern for his new village, which he called "New Amsterdam", and centered it around Niagara Square.  In 1800, residents of the small village decided they did not like the name "New Amsterdam" and decided it would be called "Buffalo".  In 1808, the name was officially changed and the Village of Buffalo had 25 residents at the time.
+
+Most popular accounts hold that the name "Buffalo" is a corruption of the French phrase ''beau fleuve,'' "beautiful river," a phrase said to have been exclaimed by French explorers upon seeing the [[Niagara River]]. This speculation, however, is contradicted by primary sources. French explorers actually referred to Buffalo Creek in print as ''Rivière aux Chevaux,'' "Horse River."<ref>Houghton, Frederick. The Name Buffalo. Buffalo, NY: Buffalo Historical Society Publications, v. 24, pp. 63–69 [http://books.google.com/books?id=fY4MAAAAYAAJ&pg=PA63&lpg=PA63&dq=Buffalo+first+appeared+on+a+map&source=web&ots=Dg-YQZb0Ur&sig=MOPlDcMG_xdKlwbd_3RzF0wjM_U&hl=en&sa=X&oi=book_result&resnum=1&ct=result#PPR3,M1 Books.google.com]</ref> The earliest name origin theory to appear in print (1825) relates a story about stolen horsemeat being passed off as bison flesh, with the site of the illicit picnic henceforth remembered as "Buffalo," but the author who conveyed this tale expressed his skepticism.<ref>Ball, Sheldon. ''[http://digital.library.cornell.edu/cgi/t/text/pageviewer-idx?c=nys;cc=nys;idno=nys294;node=nys294%3A1;size=s;frm=frameset;seq=6;view=image;page=root Buffalo in 1825].'' Buffalo, NY: S. Ball, 1825</ref> What ''is'' clear is that there were no [[bison]] in the area; that the settlement of Buffalo took its name from [[Buffalo River (New York)|Buffalo Creek]];<ref>[http://www.britannica.com/EBchecked/topic/83593/Buffalo/235380/History#tab=active~checked%2Citems~checked&title=Buffalo%20%3A%3A%20History%20--%20Britannica%20Online%20Encyclopedia Encyclopedia Britannica: Buffalo, NY, USA]</ref> and that Buffalo Creek first appeared on a map in 1759–1760.<ref>Houghton, p. 63</ref> Although the Beau Fleuve theory is the most appealing but least plausible theory among many, it is unlikely that Buffalo's true name origin can be conclusively established.
+
+==History==
+[[File:Buffalo Panorama 1911.jpg|thumb|right|300px|Buffalo Panorama 1911]]
+[[File:Passenger boats buffalo new york 1909.jpg|thumb|right|300px|Passenger boats at Buffalo 1909]]
+[[File:Pan-American Exposition - Ethnology Building at Night.jpg|thumb|right|175px|[[Pan-American Exposition]]&nbsp;– [[Ethnology]] Building at Night]]
+{{Main|History of Buffalo, New York}}
+
+Prior to the [[Iroquois]] occupation of the region, the region was settled by the [[Neutral Nation]]. Later, the Senecas of the [[Iroquois]] Confederacy conquered the Neutrals. In 1804, [[Joseph Ellicott]], a principal agent of the [[Holland Land Company]], designed a radial street and grid system that branches out from downtown like bicycle spokes,<ref>{{cite web |last = Priebe Jr.|first = J. Henry |title = Beginnings&nbsp;—The Village of Buffalo - 1801 to 1832 |url = http://history.buffalonet.org/1801.html |accessdate = 2007-09-07}}</ref> and is one of the few radial street plans in the US.{{Citation needed|date=June 2008}} During the [[War of 1812]], on December 30, 1813,<ref>[http://www.buffalonian.com/history/articles/1801-50/TheBurningofBuffalo.html The Buffalonian]</ref>{{'}}<ref>[http://www.buffaloah.com/h/war1812/burning.html History of Buffalo]</ref> Buffalo was burned by British forces. On November 4, 1825 the [[Erie Canal]] was completed with Buffalo strategically positioned at the western end of the system. At the time, the population was about 2,400. The Erie Canal brought a surge in population and commerce which led Buffalo to incorporate as a city in 1832, with a population of about 10,000 people.
+
+The City of Buffalo has long been home to African-Americans. An example is the 1828 village directory which listed 59 "Names of Coloured" heads of families.<ref>{{cite web |last = Fordham |first = Monroe |title = Michigan Street Church |work = African American history of Western New York |month = April | year = 1996 |url = http://www.math.buffalo.edu/~sww/0history/hwny-michigan.st.church.html |accessdate = 2007-09-08}}</ref> In 1845, construction was begun on the [[Macedonia Baptist Church (Buffalo, New York)|Macedonia Baptist Church]] (commonly called the ''Michigan Street Baptist Church''). This African-American church was an important meeting place for the abolitionist movement. On February 12, 1974 the church was added to the [[List of Registered Historic Places in Erie County, New York|National Register of Historic Places]]. Abolitionist leaders such as [[William Wells Brown]] made their home in Buffalo.<ref>{{cite web |title= African American history of Western New York |url= http://www.math.buffalo.edu/~sww/0history/wwb0.html |accessdate = 2007-09-08}}</ref> Buffalo was also a terminus point of the [[Underground Railroad]]<ref>{{cite web |title= Underground Railroad Sites in Buffalo, NY |url=http://www.buffaloresearch.com/ugrr.html |accessdate = 2010-07-25}}</ref> with many fugitives crossing the [[Niagara River]] from Buffalo to [[Fort Erie, Ontario]] and freedom.
+
+During the 1840s, Buffalo's port continued to develop. Both passenger and commercial traffic expanded with some 93,000 passengers heading west from the port of Buffalo.<ref name="The City of Buffalo 1840-1850" >{{cite web |last = Priebe Jr. |first = J. Henry |title= The City of Buffalo 1840–1850 |url = http://history.buffalonet.org/1840-50.html |accessdate = 2007-09-09}}</ref> Grain and commercial goods shipments led to repeated expansion of the harbor. In 1843, the world's first steam-powered [[grain elevator]] was constructed by local merchant Joseph Dart, Jr. and engineer Robert Dunbar. The "Dart Elevator" enabled faster unloading of [[lake freighter]]s along with the transshipment of grain in bulk from lakers to canal boats and, later on, rail cars.<ref name = "The City of Buffalo 1840-1850"/>
+
+Abraham Lincoln visited Buffalo on February 16, 1861 on his trip to accept the presidency of the United States. During his visit, he stayed at the American Hotel on Main Street between Eagle Street and Court Street.<ref name = "The History of Buffalo: A Chronology Buffalo, New York 1841-1865">{{cite web |last =LaChiusa |first = Chuck |title = The History of Buffalo: A Chronology Buffalo, New York 1841–1865 |url = http://freenet.buffalo.edu/bah/h/1865.html#1859 |accessdate = 2007-09-08}} {{dead link|date=January 2011}}</ref> The Civil War years saw an increase in the population of Buffalo which grew from 81,029 to 94,210 by 1865. In addition to sending many soldiers to the Union effort, Buffalo manufacturers supplied important war material. For example, the Niagara Steam Forge Works manufactured turret parts for the [[ironclad]] ship [[USS Monitor|USS ''Monitor'']].<ref name = "The History of Buffalo: A Chronology Buffalo, New York 1841-1865" />
+[[File:Lafayette Square, Buffalo, NY.jpg|thumb|right|[[Lafayette Square, Buffalo|Lafayette Square]] c. 1912]]
+[[File:Niagara Square, Buffalo, NY.jpg|thumb|right|[[Niagara Square]] c. 1912]]
+
+[[Grover Cleveland]] served as Sheriff of Erie County (1871–1873), and was Mayor of Buffalo in 1882. He was later [[Governor of New York]] (1883–1885), 22nd President of the United States (1885–1889) and 24th President (1893–1897).
+
+In May, 1896, the [[Ellicott Square Building]] opened. For the next 16 years, it was the largest office building in the world. It was named after the surveyor Joseph Ellicott.
+
+At the dawn of the 20th Century, local mills were among the first to benefit from [[hydroelectric power]] generated via the Niagara River. The city got the nickname ''City of Light'' at this time due to the widespread electric lighting.<ref name="cityjournal">[http://www.city-journal.org/html/17_4_buffalo_ny.html Can Buffalo Ever Come Back?] from ''[[City Journal (New York)|City Journal]]''</ref> In 1881, Buffalo deployed the first electric street lights in the United States. It was also part of the [[automobile]] revolution, hosting the [[brass era]] car builders [[Pierce Arrow]] and the [[Seven Little Buffaloes (automobile company)|Seven Little Buffaloes]] early in the century.<ref>Believe it, or not. Clymer, Floyd. ''Treasury of Early American Automobiles, 1877–1925'' (New York: Bonanza Books, 1950), p.178.</ref> ''City of Light'' (1999) was the title of Buffalo native [[Lauren Belfer|Lauren Belfer's]] historical novel set in 1901, which in turn engendered a listing of real versus fictional persons and places<ref>[http://www.buffaloah.com/h/bel/places.html The History of Buffalo]</ref> featured in her pages.
+
+President [[William McKinley]] was [[William McKinley assassination|shot and mortally wounded]] at the [[Pan-American Exposition]] in Buffalo on September 6, 1901. He died in the city eight days later and [[Theodore Roosevelt]] was sworn in at the [[Theodore Roosevelt Inaugural National Historic Site|Wilcox Mansion]] as the 26th President of the United States.
+
+An international bridge, known as the [[Peace Bridge]], linking Buffalo to [[Fort Erie, Ontario]] was opened in 1927. The [[Buffalo Central Terminal]], a 17-story [[Art Deco]] style station designed by architects [[Fellheimer & Wagner]] for the [[New York Central Railroad]], was finished just weeks before the [[Wall Street Crash of 1929]].
+
+During [[World War II]], Buffalo saw a period of prosperity and low unemployment due to its position as a manufacturing center.<ref>{{cite web| last =| first =| authorlink =| coauthors =| title = 1941–1945| work = History| publisher =Parkside Community Association| date =| url = http://www.parksidebuffalo.org/history.html| doi =| accessdate = }}</ref><ref>{{cite web
+| last = Rizzo| first = Michael| authorlink =| coauthors =| title = Joseph J. Kelly 1942–1945| work = Through The Mayor's Eyes| publisher =The Buffalonian| date =| url = http://www.buffalonian.com/history/industry/mayors/Kelly.htm| doi =| accessdate = }}</ref> The [[American Car and Foundry]] company, which manufactured [[rolling stock|railcars]], reopened their Buffalo plant in 1940 to manufacture munitions during the war years.<ref>{{cite web| last =| first =| authorlink =| coauthors =| title = Buffalo Car Company| work =| publisher =| date = 9 April 2006| url = http://www.midcontinent.org/rollingstock/builders/buffalo_carco.htm| doi =| accessdate = }}</ref>
+
+With the opening of the [[St. Lawrence Seaway]] in 1957, which cut the city off from valuable trade routes; [[deindustrialization]]; and the nation-wide trend of [[suburbanization]]; the city's economy began to deteriorate. Like much of the [[Rust Belt]], Buffalo, which peaked at more than half a million people in the 1950s, has seen its population decline by almost 50 percent as industries shut down and people left for the suburbs or other cities.
+
+Like other [[rust belt]] cities such as [[Flint, Michigan]], Buffalo has attempted to revitalize its beleaguered economy and crumbling infrastructure. In the first decade of the 21st century, a massive increase in economic development spending has attempted to reverse its dwindling prosperity. $4 billion was spent in 2007 compared to a $50 million average for the previous ten years.<ref>{{cite web |title= current city development projects 2007|url= http://www.ci.buffalo.ny.us/files/1_2_1/splanning/listofprojects/ListBuffDev101007.pdf |accessdate = 2007-11-04|format=PDF}}</ref> New proposals and renovations are numerous, especially in the downtown core. As of 2008, the population has continued to decrease, despite the efforts of city officials. (See demographics section.)
+
+The economy today is stable and the city's prosperity has increased significantly in the 21st century with the opening of several new hotels catering to tourists visiting nearby [[Niagara Falls]] and a new entertainment district along Elmwood Avenue, along with the opening of factories manufacturing environmentally conscious products.
+
+==Geography and climate==
+[[File:BuffaloAvgTemps.png|right|thumb|Buffalo average temperatures]]
+
+===Geography===
+Buffalo is located on the eastern end of [[Lake Erie]], opposite [[Fort Erie, Ontario]] in Canada, and at the beginning of the [[Niagara River]], which flows northward over [[Niagara Falls]] and into [[Lake Ontario]].
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|52.5|sqmi|km2}}. {{convert|40.6|sqmi|km2}} of it is land and {{convert|11.9|sqmi|km2}} of it is water. The total area is 22.66% water.
+
+===Climate===
+[[File:BuffInBloom.jpg|thumb|right|Buffalo in bloom]]
+[[File:Blizzard of 1977.jpg|thumb|right|[[Blizzard of 1977]]]]
+Buffalo has a reputation for snowy winters, but it is rarely the snowiest city in New York State.<ref>[http://goldensnowball.com/2009/01/syracuse-already-over-annul-snowfall.html New York State Golden Snowball Awards.]</ref> The region experiences a fairly humid, [[humid continental climate|continental-type]] climate, but with a definite [[maritime climate|maritime]] flavor due to strong modification from the [[Great Lakes]] ([[Köppen climate classification]] "Dfb"&nbsp;— uniform precipitation distribution). The transitional seasons are very brief in Buffalo and Western New York.
+
+Winters in Western New York are generally cold and [[snowstorm|snowy]], but are changeable and include frequent thaws and rain as well. Winters can also be quite long in Western New York, usually spanning from mid-November to mid-March. Snow covers the ground more often than not from late December into early March, but periods of bare ground are not uncommon. Over half of the annual snowfall comes from the [[lake effect snow|lake effect]] process and is very localized. Lake effect snow occurs when cold air crosses the relatively warm lake waters and becomes saturated, creating clouds and [[precipitation (meteorology)|precipitation]] downwind. Due to the prevailing winds, areas south of Buffalo receive much more lake effect snow than locations to the north. The lake snow machine starts as early as mid-November, peaks in December, then virtually shuts down after [[Lake Erie]] freezes in mid-to-late January. The most well-known snowstorm in Buffalo's history, the [[Blizzard of 1977|Blizzard of '77]], was not a lake effect snowstorm in Buffalo in the normal sense of that term (Lake Erie was frozen over at the time), but instead resulted from a combination of high winds and snow previously accumulated both on land and on frozen Lake Erie. Snow does not typically impair the city's operation, but can cause significant damage as with the [[Lake Storm "Aphid"|October 2006 storm]].
+
+Buffalo has the sunniest and driest summers of any major city in the [[Northeastern United States|Northeast]], but still has enough rain to keep [[vegetation]] green and lush.<ref>[http://www.erh.noaa.gov/buf/bufclifo.htm Buffalo's Climate]. ''National Weather Service''. Retrieved July 5, 2006.</ref> Summers are marked by plentiful sunshine and moderate [[humidity]] and temperature. It receives, on average, over 65% of possible sunshine in June, July and August. Obscured by the notoriety of Buffalo's winter snow is the fact that Buffalo benefits from other lake effects such as the cooling southwest breezes off [[Lake Erie]] in summer that gently temper the warmest days. As a result, the Buffalo station of the National Weather Service has never recorded an official temperature of {{convert|100|F|1|abbr=on}} or more.<ref>[http://www.weather.com/weather/wxclimatology/monthly/graph/USNY0181?from=tenDay_bottomnav_undeclared Weather.com. Record high of {{convert|99|°F|0|abbr=on}} was recorded in August 1948]</ref> Rainfall is moderate but typically occurs at night. The stabilizing effect of [[Lake Erie]] continues to inhibit [[thunderstorms]] and enhance sunshine in the immediate Buffalo area through most of July. August usually has more showers and is hotter and more humid as the warmer lake loses its temperature-stabilizing influence.
+
+{{Weather box
+|location = Buffalo, New York
+|single line = Yes
+|Jan record high F = 72
+|Feb record high F = 71
+|Mar record high F = 81
+|Apr record high F = 94
+|May record high F = 94
+|Jun record high F = 98
+|Jul record high F = 97
+|Aug record high F = 99
+|Sep record high F = 98
+|Oct record high F = 92
+|Nov record high F = 80
+|Dec record high F = 74
+|year record high F = 99
+|Jan high F = 31
+|Feb high F = 33
+|Mar high F = 42
+|Apr high F = 54
+|May high F = 66
+|Jun high F = 74
+|Jul high F = 80
+|Aug high F = 78
+|Sep high F = 70
+|Oct high F = 59
+|Nov high F = 47
+|Dec high F = 36
+|year high F = 55
+|Jan low F = 18
+|Feb low F = 19
+|Mar low F = 26
+|Apr low F = 36
+|May low F = 48
+|Jun low F = 57
+|Jul low F = 62
+|Aug low F = 60
+|Sep low F = 53
+|Oct low F = 43
+|Nov low F = 34
+|Dec low F = 24
+|year low F = 39
+|Jan record low F = −16
+|Feb record low F = −20
+|Mar record low F = −7
+|Apr record low F = 5
+|May record low F = 25
+|Jun record low F = 36
+|Jul record low F = 43
+|Aug record low F = 38
+|Sep record low F = 32
+|Oct record low F = 20
+|Nov record low F = 2
+|Dec record low F = −10
+|year record low F = −20
+|Jan rain inch = 3.16
+|Feb rain inch = 2.42
+|Mar rain inch = 2.99
+|Apr rain inch = 3.04
+|May rain inch = 3.35
+|Jun rain inch = 3.82
+|Jul rain inch = 3.14
+|Aug rain inch = 3.87
+|Sep rain inch = 3.84
+|Oct rain inch = 3.19
+|Nov rain inch = 3.92
+|Dec rain inch = 3.80
+|year rain inch = 40.54
+|Jan snow inch = 24.0
+|Feb snow inch = 18.4
+|Mar snow inch = 12.4
+|Apr snow inch = 3.6
+|May snow inch = .3
+|Jun snow inch = 0
+|Jul snow inch = 0
+|Aug snow inch = 0
+|Sep snow inch = 0
+|Oct snow inch = .3
+|Nov snow inch = 11.0
+|Dec snow inch = 25.4
+|year snow inch = 95.4
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 19.8
+|Feb precipitation days = 17.2
+|Mar precipitation days = 15.7
+|Apr precipitation days = 13.6
+|May precipitation days = 12.6
+|Jun precipitation days = 11.9
+|Jul precipitation days = 10.5
+|Aug precipitation days = 10.5
+|Sep precipitation days = 11.6
+|Oct precipitation days = 12.8
+|Nov precipitation days = 15.8
+|Dec precipitation days = 19.4
+|year precipitation days = 171.4
+|unit snow days = 0.1 in
+|Jan snow days = 16.7
+|Feb snow days = 14.0
+|Mar snow days = 9.7
+|Apr snow days = 3.7
+|May snow days = .2
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = .3
+|Nov snow days = 6.0
+|Dec snow days = 14.7
+|year snow days = 65.3
+|Jan sun = 89.9
+|Feb sun = 110.2
+|Mar sun = 164.3
+|Apr sun = 204.0
+|May sun = 257.3
+|Jun sun = 288.0
+|Jul sun = 306.9
+|Aug sun = 266.6
+|Sep sun = 207.0
+|Oct sun = 158.1
+|Nov sun = 84.0
+|Dec sun = 68.2
+|year sun = 2204.5
+|source 1 = NOAA (normals, 1971−2000) <ref name= NCDC >{{cite web
+| url = http://cdo.ncdc.noaa.gov/climatenormals/clim20/ny/301012.pdf
+| title = Climatography of the United States No. 20: BUFFALO NIAGARA INTL AP, NY 1971−2000
+| accessdate = 2010-05-14
+| publisher = [[National Oceanic and Atmospheric Administration]] }}</ref>
+|source 2 = HKO (sun hours, 1961−1990),<ref name= HKO >{{cite web
+| url = http://www.hko.gov.hk/wxinfo/climat/world/eng/n_america/us/buffalo_e.htm
+| title = Climatological Normals of Buffalo
+| accessdate = 2010-05-14
+| publisher = [[Hong Kong Observatory]] }}</ref> Weather.com (extreme temps) <ref name = TWC >{{cite web
+| url = http://www.weather.com/outlook/health/fitness/wxclimatology/monthly/graph/USNY0181
+| title = Monthly Averages for Buffalo, NY
+| accessdate = 2010-12-19
+| publisher = The Weather Channel }}</ref>
+|date=August 2010
+}}
+
+==Demographics==
+{{US Census population
+| 1810=1508
+| 1820=2095
+| 1830=8668
+| 1840=18213
+| 1850=42261
+| 1860=81129
+| 1870=117714
+| 1880=155134
+| 1890=255664
+| 1900=352387
+| 1910=423715
+| 1920=506775
+| 1930=573076
+| 1940=575901
+| 1950=580132
+| 1960=532759
+| 1970=462768
+| 1980=357870
+| 1990=328123
+| 2000=292648
+| 2010=261310
+| footnote=Historical Population Figures<ref>{{cite web| url=http://grab.by/AbU| title=Population Estimates| first=Campbell| last=Gibson| publisher=Population Division, U.S. Bureau of the Census| month=June | year=2008| accessdate=2009-11-15}}</ref>
+<ref>{{cite web|url=http://www2.census.gov/prod2/decennial/documents/1850a-02.pdf|title=Census|publisher=United States Census}} page 36</ref>
+}}
+
+===City proper===
+Like most formerly industrial cities of the Great Lakes region, Buffalo has experienced an economic depression brought about by the loss of its industrial base. The city's population peaked in 1950, when it was the 15th largest city in the United States and its population has declined in every year since. The demographic change and the impact of such change on the industrial cities of the region, including Buffalo, is significant; based on the 2006 US Census estimate, Buffalo's current population is equivalent to its population in the year 1890, reversing 120 years of demographic change.
+
+Although the trend is inconclusive at this time, current census estimates indicate the rate of population loss may be decelerating to a stable state. The 2008–2009 loss estimate is 50% less than the years prior, and is at less than 1% year-over-year loss. Whether this trend will continue will not be evident until next year's estimate.
+
+At the 2005–2007 American Community Survey Estimates, the city's population was 53.8% White (48.7% non-Hispanic White alone), 41.1% Black or African American, 1.2% American Indian and Alaska Native, 2.0% Asian, 4.5% from some other race and 2.5% from two or more races. 8.3% of the total population was Hispanic or Latino of any race.<ref>[http://factfinder.census.gov/servlet/ADPTable?_bm=y&-context=adp&-qr_name=ACS_2007_3YR_G00_DP3YR5&-ds_name=ACS_2007_3YR_G00_&-tree_id=3307&-redoLog=true&-_caller=geoselect&-geo_id=16000US3611000&-format=&-_lang=en Census Bureau]</ref>
+
+At that time of the 2000 census there were 292,648 people, 122,720 [[households]], and 67,005 [[family|families]] residing in the city. The [[population density]] is 7,205.8 people per square mile (2,782.4/km²). There are 145,574 [[house|housing]] units at an average density of 3,584.4 per square mile (1,384.1/km²). The [[Race (U.S. Census)|racial]] makeup of the city is 54.43% [[White (U.S. Census)|White]], 37.23% [[African American]], 0.77% [[Native American (U.S. Census)|Native American]], 1.40% [[Asian (U.S. Census)|Asian]], 0.04% [[Pacific Islander (U.S. Census)|Pacific Islander]], 3.68% from other races, and 2.45% from two or more races. 7.54% of the population are [[Hispanics in the United States|Hispanic]] or [[Latino]] of any race. The top 5 largest ancestries include [[German American|German]] (13.6%), [[Irish American|Irish]] (12.2%), [[Italian American|Italian]] (11.7%), [[Polish American|Polish]] (11.7%), and [[English American|English]] (4.0%).<ref>[http://www.city-data.com/city/Buffalo-New-York.html Buffalo, New York (NY) Detailed Profile - relocation, real estate, travel, jobs, hospitals, schools, crime, news, sex offenders]</ref>
+
+There were 122,720 households out of which 28.6% have children under the age of 18 living with them, 27.6% are married couples living together, 22.3% have a female householder with no husband present, and 45.4% are non-families. 37.7% of all households are made up of individuals and 12.1% have someone living alone who is 65 years of age or older. The average household size is 2.29 and the average family size is 3.07.
+
+In the city the population included 26.3% under the age of 18, 11.3% from 18 to 24, 29.3% from 25 to 44, 19.6% from 45 to 64, and 13.4% who are 65 years of age or older. The median age is 34 years. For every 100 females there are 88.6 males. For every 100 females age 18 and over, there are 83.5 males.
+
+The [[median household income|median income]] for a household in the city is $24,536, and the median income for a family is $30,614. Males have a median income of $30,938 versus $23,982 for females. The [[per capita income]] for the city is $14,991. 26.6% of the population and 23.0% of families are below the [[poverty line]]. Out of the total population, 38.4% of those under the age of 18 and 14.0% of those 65 and older are living below the poverty line.
+
+[[File:Buffalo NY historical population.png|left|thumb|Population of Buffalo, 1830–2006]]
+
+Buffalo has very sizable populations of [[Irish American|Irish]], [[Italian American|Italian]], [[Polish American|Polish]], [[German American|German]], [[Jewish American|Jewish]], [[Greek American|Greek]], [[Arab American|Arab]], [[African American]], [[Indian American|Indian]], and [[Puerto Rican American|Puerto Rican]] descent. Major ethnic neighborhoods still exist but they changed significantly in the second half of the 20th century. Traditionally, [[Polish-Americans]] were the predominant occupants of the [[East Side, Buffalo, New York|East Side]], while [[Italian-Americans]] composed a close-knit neighborhood in the west side. The [[East Side, Buffalo, New York|East Side]] is now a predominantly African American neighborhood, while the West Side has become a [[melting pot]] of many ethnicities, with [[Latino]] culture being the strongest influence. Throughout the history of Buffalo, the neighborhoods collectively called the First Ward, as well as much of [[South Buffalo]], have comprised almost entirely people of [[Irish descent]]. Recently, there has been an influx of inhabitants that are of Arab descent, mainly from [[Yemen]], as the city's [[Muslim]] population has increased to approximately 3000 according to an estimate.<ref>http://wings.buffalo.edu/sa/muslim/LocalMosques.htm {{dead link|date=January 2011}}</ref> Since the 1950s and 1960s, the greater portion of the Jewish population has moved to the [[suburban]] areas outside of the city, or to the city's upper West Side.
+
+===Metropolitan area===
+{{Main|Buffalo-Niagara Falls metropolitan area}}
+
+As of 2006, [[Erie County, New York|Erie]] and [[Niagara County|Niagara]] Counties had a combined estimated population of 1,154,378.<ref name="suny_rkn">{{cite web|url=http://rkn.buffalo.edu/data/topicdata.cfm?Topic=100&Region=777|title=SUNY Buffalo Regional Knowledge Network}}</ref> The racial makeup of the area is 82.2% [[Race and ethnicity in the United States Census|White]], 13% [[African American]], 0.6% [[Native Americans in the United States|Native American]], 1.32% [[Race and ethnicity in the United States Census|Asian]], 3.3% [[Hispanic]], and 1.4% of all [[other races]]. In the metropolitan area, 39.68% of people are under the age of 18 or over the age of 64, and the median age is 38. Of the total population, 82.88% have a [[high school diploma]] and 23.2% have obtained a [[Bachelor's degree]]. The median income for a household is $48,400 and the per capita income for the area is just under $39,000. Approximately 8% of the population is below the poverty line.
+
+==Education==
+{{See also|List of Buffalo metropolitan area schools}}
+[[File:PostcardLHS.png|thumb|right|[[Lafayette High School (Buffalo)|Lafayette High School]]]]
+
+===Public schools===
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+
+Currently, there are 78 [[Public school (government funded)|public schools]] in the city including a growing number of [[charter schools]]. As of 2006, the total enrollment was 41,089 students with a [[student-teacher ratio]] of 13.5 to 1. The graduation rate is up to 52% in 2008, up from 45% in 2007, and 50% in 2006.<ref>[http://www.buffalonews.com/home/story/711732.html The Buffalo News]</ref> More than 27% of teachers have a [[Master's degree]] or higher and the median amount of experience in the field is 15 years. When considering the entire metropolitan area, there are a total of 292 schools educating 172,854 students.<ref name="suny_rkn" /> Buffalo has a [[magnet school]] system, featuring schools that attract students with special interests, such as [[science]], [[bilingual]] studies, and [[Native American studies]]. Specialized facilities include the Buffalo Elementary School of Technology; the Dr. Martin Luther King, Jr., Multicultural Institute; the [[International School]]; the Dr. Charles R. Drew Science Magnet School; Build Academy; Leonardo da Vinci High School Buffalo; PS 32 Bennett Park Montessori; the Buffalo Academy for the Visual and Performing Arts, BAVPA; the [[Riverside Institute of Technology]]; [[Lafayette High School (Buffalo)|Lafayette High School/Buffalo Academy of Finance]]; [[Hutchinson Central Technical High School]]; [[Burgard Vocational High School]]; South Park High School and the Emerson School of Hospitality.
+
+Buffalo is currently in the process of a $1 billion city school rebuilding plan.
+
+===Private schools===
+<!-- When adding to this section please add only schools that are physically within the borders of the City of Buffalo-->
+
+The city is home to 47 [[private schools]] while the metropolitan region has 150 institutions. Most private schools have a [[Roman Catholic Church|Roman Catholic]] affiliation. There are schools affiliated with other religions such as [[Islam]] and [[Judaism]]. There are also [[nonsectarian]] options including [[The Buffalo Seminary]] (the only private, nonsectarian, all-girls school in Western New York state),<ref>[http://buffaloseminary.org/ Buffalo Seminary - Buffalo Seminary]</ref> and [[Nichols School]].
+
+Complementing its standard function, the Buffalo Public Schools Adult and Continuing Education Division provides education and services to adults throughout the community.<ref>{{cite web|url=http://www.upskill.org/|title=Buffalo Public Schools Adult and Continuing Education Division}}</ref> In addition, the Career and Technical Education Department offers more than 20 academic programs, and is attended by about 6,000 students each year.<ref>{{cite web|url=http://www.buffaloschools.org/cte/|title=Career and Technical Education department}} {{dead link|date=January 2011}}</ref>
+
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+
+====Catholic schools====
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+
+<!-- ***SEE THE TALK PAGE SECTION "''not'' IN BUFFALO" BEFORE ADDING TO THIS LIST*** -->
+* [[Canisius High School]]
+* [[Bishop Timon - St. Jude High School]]
+* [[Nardin Academy]]
+* [[Trinity Catholic Academy (Buffalo, New York)|Trinity Catholic Academy]]
+* [[Ambrose Catholic Academy]]
+* [[Notre Dame Academy (Buffalo, New York)|Notre Dame Academy]]
+* [[Holy Angels Academy (Buffalo, New York)|Holy Angels Academy]]
+* [[Mount Mercy Academy (Buffalo, New York)|Mount Mercy Academy]]
+* [[Our Lady of Black Rock School (Buffalo, New York)|Our Lady of Black Rock School]]
+ 
+
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+
+====Jewish schools====
+* [[Kadimah Day School of Buffalo]]
+[http://www.kadimah.org/ Kadimah Jewish Day School]
+
+====Islamic schools====
+* [[Darul Uloom Al-Madania]]
+* Universal School at Buffalo
+
+==Post secondary education==
+===Colleges and universities===
+Listed below are institutions that have campuses in the city of Buffalo. Here is a complete list of [[Western New York#Colleges and universities|all the colleges and universities in Western New York]].
+
+====Private====
+* [[Bryant & Stratton College]]
+* [[Canisius College]]
+* [[D'Youville College]]
+* [[Medaille College]]
+* [[Trocaire College]]
+
+====SUNY====
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+Buffalo is home to four [[State University of New York]] (SUNY) institutions. [[University at Buffalo, The State University of New York|UB]] and [[Buffalo State College|Buffalo State]] are the largest institutions of their type in the system. The total enrollment of these 4 SUNY institutions combined is approximately 54,000 students in the area.
+* [[University at Buffalo]], one of the four University Centers in the SUNY system.
+* [[Buffalo State College]], a comprehensive 4 year college affiliated with SUNY.
+* [[Erie Community College]] a 2 year community college affiliated with SUNY.
+* [[Empire State College]], public liberal arts college
+<!-- When adding to this section please only add schools that are physically within the borders of the City of Buffalo-->
+
+==Economy==
+[[File:20080310 Soldiers and Sailors edit.JPG|thumb|right|Soldiers' and Sailors' Monument, [[Lafayette Square, Buffalo|Lafayette Square]]]]
+
+===History===
+Buffalo and the surrounding area were long involved in railroad commerce, [[steel]] manufacture, [[automobile]] production, aircraft/aerospace design and production, Great Lakes shipping, and grain storage. Most of these industries have left the city through the years. Major steel production no longer exists in the area, although several smaller steel mills remain in operation. For example, Gibraltar Industries, a leading manufacturer, processor, and distributor of steel products for the building, industrial, and vehicular markets is headquartered in Buffalo. As of the [[1950 United States Census]], Buffalo was the 15th largest city in the country, the nation's largest inland port (twelfth overall), second biggest rail center, sixth largest steel producer, and eighth largest manufacturer.<ref>{{Cite book|title=A Greater Look At Greater Buffalo|page=58|publisher=Windsor Publications|isbn=978-0-89781-198-9|year=1986|author=Bisco, Jim}}</ref>
+
+The regional economy can now best be described as a mix of industrial, light manufacturing, high technology and service-oriented private sector companies. Instead of relying on a single industry or sector for its economic future, the region has taken a diversified approach that have the potential to create opportunities for growth and expansion in the 21st century.<ref>{{cite web | url=http://rkn.buffalo.edu/reports/region_quick_results.cfm?type=4 |title= Binational Buffalo Niagara Region Report |author= University at Buffalo Regional Institute|publisher= UB Regional Institute|year=2011 |work=Regional Knowledge Network |accessdate=2 February 2011 }}</ref>
+
+===Race===
+
+On October 25, 2008 the United Nations released a report entitled "State of the World's Cities" in which the Buffalo-Niagara Falls area was specifically cited as having one of the worst rates of economic inequality in the world and that it was racially based. The report specifically stated "the report cited figures from western New York state, where 40 per cent of black, Hispanic and ethnically-mixed households earned less than $15,000 in 1999, as compared to 15 per cent of white households." <ref>[http://english.aljazeera.net/news/americas/2008/10/2008102321493551343.html UN: Major inequality in US cities - Americas - Al Jazeera English]</ref> In addition, the United States Census department also released information placing the Buffalo-Niagara metro area, as the 8th most segregated area in America.<ref>[http://www.censusscope.org/us/rank_dissimilarity_white_black.html CensusScope - Segregation: Dissimilarity Indices]</ref>
+
+===Employment===
+Overall, employment in Buffalo has shifted as its population has declined and manufacturing has left. Buffalo's 2005 unemployment rate was 6.6%, contrasted with New York State's 5.0% rate.<ref>[http://www.labor.state.ny.us/workforceindustrydata/wny/WesternSlideShows.asp See Erie County]</ref> And from the fourth quarter of 2005 to the fourth quarter of 2006, Erie County had no net job growth, ranking it 271st among the 326 largest counties in the country.<ref>[http://www.bls.gov/news.release/cewqtr.t01.htm BLS, Table 1. Covered establishments, employment, and wages in the 326 largest counties, fourth quarter 2006]</ref> Yet the area has recently seen an upswing in job growth as unemployment has dropped to only 4.9% in July 2007 from 5.2% in 2006 and 6.6% in 2005.<ref>[http://www.labor.state.ny.us/workforceindustrydata/PressReleases/prtbur.txt New York]</ref> The area's manufacturing jobs have continued to show the largest losses in jobs with over 17,000 fewer than at the start of 2006. Yet other sectors of the economy have outdistanced manufacturing and are seeing large increases. Educational and health services added over 30,400 jobs in 2006 and over 20,500 jobs have been added in the professional and business (mostly finance) arena.<ref>[http://www.bizjournals.com/albany/ ''bizjournals.com'']</ref>
+
+===Life sciences===
+Buffalo has increasingly become a center for [[bioinformatics]] and [[human genome]] research, including work by researchers at the [[University at Buffalo, The State University of New York|University at Buffalo]] and the [[Roswell Park Cancer Institute]]. This consortium is known as the [[Buffalo Niagara Medical Campus]]. It also includes: Buffalo Hearing & Speech Center, Buffalo Medical Group Foundation, [[Hauptman-Woodward Medical Research Institute]], Kaleida Health, Olmsted Center for the Visually Impaired, Cleveland BioLabs and Upstate New York Transplant Services. The DNA samples used in The Human Genome Project were also collected from anonymous donors from Buffalo.
+
+Entrepreneurial resources and life science business consultants accelerate the growth and development of emerging companies found within the [[Buffalo Niagara Medical Campus]] and Upstate New York Region. For example, Buffalo BioSciences is a technology commercialization partner to the New York State Center of Excellence in Bioinformatics & Life Sciences and contributed to the launch and early success of Empire Genomics&nbsp;–- a firm based on research conducted at Roswell Park Cancer Institute by Dr. Norma Nowak enabling {{Citation needed|date=March 2009}} the delivery of personalized medicine.
+
+===Banking===
+Buffalo is the headquarters of [[M&T Bank]], a large regional bank with assets over $79B (as of June 2011).<ref>https://www.mtb.com/aboutus/Pages/WhoIsMT.aspx</ref> [[HSBC Bank USA]] also has major operations in Buffalo (The sports arena, which hosts the [[Buffalo Sabres]] [[National Hockey League|NHL]] franchise, is named [[HSBC Arena (Buffalo)|HSBC Arena]]). Other banks, such as [[Bank of America]] and [[KeyBank]] have corporate operations in Buffalo. [[Citigroup]] also has regional offices in [[Amherst, New York|Amherst]], Buffalo's largest suburb. Buffalo has also become a hub of the debt collection industry.<ref>{{cite news| last = Thompson | first = Carolyn | authorlink =| coauthors =| title = Buffalo's debt collectors accused of bullying =| agency = Associated Press| date = 2010-01-05| url = http://finance.yahoo.com/news/Buffalos-debt-collectors-apf-2226423347.html?x=0| doi =| accessdate = 2010-01-05}}</ref>
+
+[[First Niagara Bank]] recently moved its headquarters to downtown Buffalo from nearby [[Lockport (city), New York|Lockport]]. First Niagara has branches from Buffalo to [[Albany, New York]], and since September 2009 has had branches as far south as [[Pittsburgh]]. On September 10, 2009, First Niagara announced the relocation of its corporate headquarters from Lockport to downtown Buffalo. The company says facilities in Lockport will remain open and fully staffed.<ref>[https://www.fnfg.com/WorkArea/DownloadAsset.aspx?id=847 First Niagara © 2009]</ref> First Niagara, which had been considering expanding into [[Western Pennsylvania]] for some time,<ref name=PNC>[http://kdka.com/business/PNC.First.Niagara.2.978660.html KDKA-TV] {{dead link|date=January 2011}}</ref> benefited from [[PNC Financial Services]] being required by the [[United States Department of Justice]] to sell off 50 [[National City Corp.|National City]] branches in the [[Pittsburgh]] area and 11 more branches in and around [[Erie, Pennsylvania|Erie]] to competitors,<ref>[http://www.usdoj.gov/opa/documents/branches-divested.pdf United States Department of Justice]</ref> since the two banks had significant overlap in [[Western Pennsylvania]] and had potential [[antitrust]] issues in that area. First Niagara took advantage by buying 57 of the 61 National City branches from PNC that had to be divested after PNC acquired National City with funds from the [[Emergency Economic Stabilization Act of 2008|$700 billion bailout plan]] after National City became a victim of the [[subprime mortgage crisis]]. The move affected the area by creating 200 more jobs, some in the Buffalo area.<ref>[http://www.fnfg.com/pdf/pressRelease_04072009.pdf First Niagara © 2009]</ref> On July 31, 2011, it was announced First Niagara had acquired all of HSBC Banks Western New York branches.
+
+===Other===
+Buffalo is home to [[Rich Products]], one of the world's largest family-owned food manufacturers.<ref>[http://www.rich.com/business.cfm Rich Products Corporation :: Our Business]/</ref> [[Labatt]] moved its US headquarters to Buffalo in May 2007.<ref>[http://tonawanda-news.com/business/x681731064/LABATT-USA-Company-opens-new-headquarters-in-Buffalo?keyword=secondarystory LABATT USA: Company opens new headquarters in Buffalo » Business » Tonawanda News]/</ref> This is in large part due to Buffalo's location directly in the middle of the Northeastern Trade Corridor. The city is the heart of the Canadian-American corridor. Over 80% of all U.S.-Canada trade occurs via border crossings in the eastern United States and with five bridges to Canada, the Buffalo area is one of the key eastern border crossing locations. Cheese company [[Sorrento Lactalis]] is also based in Buffalo.
+
+[[New Era Cap Company]], the largest sports-licensed headwear company in the United States, is based in Buffalo. It opened new headquarters in 2007 in the former [[Federal Reserve]] Building in downtown Buffalo.<ref>[http://www2.neweracap.com/category/14/About_New_Era/page/119/HISTORY.aspx History Timeline of the New Era Cap Company]/</ref>
+
+The [[Trico]] company operated three major manufacturing facilities but has since closed all of them and moved operations to [[Mexico]]. For many years, Buffalo was the nation's second largest [[rail transport|rail]] center, after [[Chicago]]. Milk Bone dog biscuits are still manufactured in a small factory on the city's East Side.
+
+Regionally based insurance companies also have maintained their headquarters in Buffalo, New York. There’s [[Merchants Insurance Group]] and [[Lawley Insurance]]. Merchants Insurance Group is a property and casualty insurance company that provides commercial, personal property and [[casualty insurance]] throughout the Northeast and North Central [[United States]]. Lawley Insurance provides commercial insurance, employee benefits, risk management and personal insurance.
+
+[[Delaware North Companies]] are headquartered in Buffalo.<ref>[http://www.delawarenorth.com/contactus.aspx]/</ref>
+
+Habasit, the global leader in conveyor belts has a manufacturing facility in Buffalo.<ref>[http://www.manta.com/c/mmcj0c7/habasit-belting Habasit Belting (Habasit America, Inc) - Buffalo, New York (NY) | Company Profile]/</ref>
+
+===Principal employers===
+
+According to the City's 2010 Comprehensive Annual Financial Report,<ref>{{cite web|url=http://www.ci.buffalo.ny.us/files/1_2_1/Comptroller/CAFR/CAFR_2010.pdf |title=City of Buffalo 2010 Comprehensive Annual Financial Report |format=PDF |date= |accessdate=February 13, 2011}}</ref> the principal employers in the Buffalo Metropolitan Area as of June 30, 2010 are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+|1
+|[[New York|State of New York]]
+|16,755
+|-
+|2
+|[[University at Buffalo, The State University of New York|University at Buffalo]]
+|10,010
+|-
+|3
+|[[Kaleida Health]]
+|10,000
+|-
+|4
+|[[United States|United States of America]]
+|10,000
+|-
+|5
+|[[HSBC Bank USA]]
+|5,848
+|-
+|6
+|[[Buffalo Public Schools]]
+|5,389
+|-
+|7
+|Employer Services Corp.
+|5,380
+|-
+|8
+|Catholic Health System
+|5,191
+|-
+|9
+|[[Erie County, New York|County of Erie]]
+|4,775
+|-
+|10
+|[[M&T Bank]]
+|4,640
+|}
+
+==Largest private sector employers in Western New York==
+The Buffalo Niagara Enterprise (BNE), "a nonprofit, private business development and regional marketing organization" has released a table containing the largest Private sector employers for Western New York - 2011.<ref>The list can be found on the BNE website [http://www.buffaloniagara.org/files/content/Research/DataPoints/TopBizOneSheet-01_21_11.pdf here]. This information is obtained from the Business First 2011 Book of Lists.</ref>
+
+==Government==
+{{Main|Politics and Government of Buffalo, New York}}
+[[File:Buffalo City Hall - 001.jpg|thumb|right|Buffalo's [[Art Deco]] [[Buffalo City Hall|city hall]]]]
+{{See also|List of mayors of Buffalo, New York}}
+
+At the [[City (New York)|municipal]] level, the City of Buffalo has a council made up of the [[mayor]] and nine [[city council|councilmen]]. Buffalo also serves as the seat of [[Erie County, New York|Erie County]] with 6 of the 15 county legislators representing at least a portion of Buffalo. At the state level, there are three state [[New York State Assembly|assemblymen]] and two state [[New York State Senate|senators]] representing parts of the city proper. At the federal level, Buffalo is represented by three members of the [[United States House of Representatives|House of Representatives]].
+
+In a trend common to Northern "[[Rust Belt]]" regions, political life in Buffalo has been dominated by the [[Democratic Party (United States)|Democratic Party]] for the last half-century, and has been roiled by racial division and social issues. The last time anyone other than a Democrat held the position of Mayor in Buffalo was 1965 [Chester A. Kowal}.<ref>[http://en.wikipedia.org/wiki/Chester_A._Kowal]</ref> In 1977, Democratic Mayor [[James D. Griffin]] was first elected as the nominee of two minor parties, the [[Conservative Party (New York)|Conservative Party]] and the [[Right to Life Party]], after he lost the Democratic primary for Mayor to then Deputy State Assembly Speaker [[Arthur Eve]]. Griffin switched political allegiance several times during his 14 years as Mayor, generally hewing to socially conservative platforms. His successor, Democrat [[Anthony M. Masiello]] (elected in 1993) continued to campaign on [[social conservatism]], often crossing party lines in his endorsements and alliances. In 2005, however, Democrat [[Byron Brown]] was elected the city's first African-American mayor in a landslide (64%-27%) over [[Republican Party (United States)|Republican]] Kevin Helfer, who ran on a conservative platform.
+
+This change in local politics was preceded by a fiscal crisis in 2003 when years of economic decline, a diminishing tax-base, and civic mismanagement left the city deep in debt and teetering on the edge of bankruptcy. At the urging of [[New York State Comptroller]] [[Alan Hevesi]], the state took over the management of Buffalo's finances, appointing the [[Buffalo Fiscal Stability Authority]]. Conversations about merging the city with the larger Erie County government were initiated the following year by Mayor Tony Masiello, but came to naught.
+
+==Cityscape==
+[[File:Buffalo, New York from I-190 North entering downtown.jpg|thumb|center|600px|Buffalo, New York from [[Interstate 190 (New York)|I-190]] North entering downtown.]]
+[[File:Buffalo skyline edit1.jpg|thumb|center|600px|Buffalo, New York's skyline]]
+[[File:Main Place Tower2.JPG|thumb|right|Downtown view from [[Niagara Square]]]]
+
+===Neighborhoods===
+Buffalo consists of 32 different neighborhoods: ([http://library.buffalo.edu/maps/buffalo-wnymaps/buffalo_neighborhoods.php A map and listing of the neighborhoods from the University at Buffalo]) [[Allentown, Buffalo, New York|Allentown]], Bailey-Lovejoy, [[Black Rock, Buffalo, New York|Black Rock]], Central Park, Clinton-Bailey, Cold Springs, [[Delaware District, Buffalo, New York|Delaware District]], [http://www.buffaloplace.com/ Downtown], [[East Side, Buffalo, New York|East Side]], [http://www.foreverelmwood.org/ Elmwood Village], Fillmore-Leroy, First Ward, Fruit Belt, Hamlin Park, Hospital Hill, Humboldt Park, Kaisertown, Kensington, Kensington Heights, Lower West Side, Masten Park, [[North Buffalo, Buffalo, New York|North Buffalo]], North Park, [http://www.parksidebuffalo.org/ Parkside], [http://www.broadwayfillmorealive.org/ Polonia/Broadway Fillmore], [[Riverside, Buffalo, New York|Riverside]], Schiller Park, [[South Buffalo]],University District, [[University Heights, Buffalo, New York|University Heights]], Vernon Triangle, [[Upper West Side, Buffalo, New York|Upper West Side]], and Willert Park.
+
+According to the [[American Planning Association]] the [http://www.foreverelmwood.org/ Elmwood Village] neighborhood in Buffalo is ranked the third best neighborhood in America.<ref>[http://www.planning.org/greatplaces/neighborhoods/elmwoodvillage.htm "American Planning Association".] Accessed October 4, 2007 {{Wayback | url=http://planning.org/greatplaces/neighborhoods/elmwoodvillage.htm  | date=20071011213040 }}</ref> Elmwood Village<ref>[http://www.foreverelmwood.org/ Forever Elmwood - The Elmwood Village Association]</ref> is a pedestrian-oriented, mixed use neighborhood with hundreds of small, locally owned boutiques, shops, restaurants, and cafes.
+
+There are currently 9 [http://www.city-buffalo.com/Home/Leadership/CommonCouncil common council districts] in The City of Buffalo. They are: Delaware, Ellicott, Fillmore, Lovejoy, Masten, Niagara, North, South, and University.
+
+===Parks===
+{{Main|Buffalo, New York parks system}}
+[[File:Buffalo Botanical Gardens.jpg|thumb|right|250px|The [[Buffalo and Erie County Botanical Gardens]]]]
+
+One of Buffalo's many monikers is the ''City of Trees'', which describes the abundance of green in the city. In fact, Buffalo has more than 20 parks with multiple ones being accessible from any part of the city.
+
+The Olmsted Park and Parkway System is the hallmark of Buffalo's many green spaces. Three-fourths of city park land is part of the system, which comprises six major parks, eight connecting parkways, nine circles and seven smaller spaces. Begun in 1868 by [[Frederick Law Olmsted]] and his partner [[Calvert Vaux]], the system was integrated into the city and marks the first attempt in America to lay out a coordinated system of public parks and parkways. The Olmsted designed portions of the Buffalo park system are listed on the [[National Register of Historic Places]] and are maintained by the [http://www.buffaloolmstedparks.org/ Buffalo Olmsted Parks Conservancy].
+
+===Waterfront===
+[[File:Buffalo New York aerial view.jpg|thumb|right|250px|Aerial view of the waterfront at Buffalo, New York. The city is to the north. The highway to the right is [[New York State Route 5]]]]
+Situated at the confluence of [[Lake Erie]] and the [[Buffalo River (New York)|Buffalo]] and [[Niagara River]]s, Buffalo is a waterfront city. The city's rise to economic power came through its waterways in the form of [[transshipment]], [[manufacturing]], and an endless source of energy. Buffalo's waterfront remains, though to a lesser degree, a hub of commerce, trade, and industry.
+
+As of 2009, a significant portion of Buffalo's waterfront is being transformed into a focal point for social and recreational activity. Recently excavated and rewatered is the Erie Canal Commercial Slip, which is the original western terminus of the Erie Canal System. This is intended to revitalize the original Erie Canal Harbor, with shops, eateries,and high-rise condominiums planned. Buffalo's intent is to stress its relatively architectural and historical heritage, creating a tourism destination.
+
+===Standard of living===
+The loss of traditional jobs in manufacturing, rapid suburbanization and high costs of labor have led to economic decline, making Buffalo one of the poorest amongst U.S. cities with populations of more than 250,000 people. An estimated 28.7-29.9% of Buffalo residents live below the [[poverty line]], behind either only [[Detroit]],<ref>http://www.usccb.org/cchd/povertyusa/povfact6.shtml</ref> or only Detroit and [[Cleveland]].<ref>[http://www.wgrz.com/news/local/story.aspx?storyid=60244&catid=37 Buffalo 3rd Poorest Large City]. WGRZ TV''. Retrieved October 14, 2008.</ref> Buffalo's median household income of $27,850 is third-lowest among large cities, behind only Miami and Cleveland; however the median household income for the metropolitan area is $57,000.<ref>[http://www.buffalonews.com/home/story/151336.html?imw=Y Buffalo falls to second-poorest big city in U.S., with a poverty rate of nearly 30 percent]. ''Buffalo News''. Retrieved September 2, 2007.  {{Wayback|url=http://www.buffalonews.com/home/story/151336.html?imw=Y|date =20071011232954}}</ref>  
+
+This, in part, has led to the [[Buffalo-Niagara Falls metropolitan area]] having the most affordable housing market in the U.S. today. The quarterly NAHB/Wells Fargo Housing Opportunity Index (HOI) noted that nearly 90% of the new and existing homes sold in the metropolitan area during the second quarter were affordable to families making the area's median income of $57,000. The area median price of homes was $75,000.{{Citation needed|date=September 2007}}
+
+Buffalo faces issues with vacant and abandoned houses, as the city ranks second only to [[St. Louis]] on the list of American cities with the most vacant properties per capita. Since 2000, the city has torn down 2,000 vacant homes but as many as 10,000 still remain. Mayor Byron W. Brown recently unveiled a $100 million, five-year plan to demolish 5,000 more houses.<ref>[http://www.nytimes.com/2007/09/13/nyregion/13vacant.html?_r=1&n=Top/Reference/Times%20Topics/People/B/Belson,%20Ken&oref=slogin Vacant Houses, Scourge of a Beaten-down Buffalo]. ''New York Times''. Retrieved September 14, 2007.</ref> The city's move away from heavy industry and toward a service and bioinformatics economy {{Citation needed|date=March 2009}} has brought improved air and water quality, which benefit not only residents and tourists but the [[bioregionalism|bioregion]] as a whole. In July 2005, ''[[Reader's Digest]]'' ranked Buffalo as the third cleanest large city in the nation.<ref name="ReadersDigest">Derek Burnett,[http://www.rd.com/content/openContent.do?contentId=15223&pageIndex=3 America's Top Five Cleanest Cities]. ''Reader's Digest''. Retrieved January 4, 2007.  {{Wayback|url=http://www.rd.com/content/openContent.do?contentId=15223&pageIndex=3|date =20070926225226}}</ref>
+
+[[File:Buffalo City Scene.jpg|thumb|right|A set of images of Buffalo's skyline]]
+
+==Culture==
+===Nicknames===
+"The Queen City", Buffalo's most common moniker, first appeared in print in the 1840s, referring to the city's status as the second largest city in New York State after New York City. "The Queen City" was also used during the 19th century to describe Buffalo as the second largest American city on the [[Great Lakes]] after [[Chicago]]. Buffalo has also been called ''The Nickel City'' due to the appearance of a bison on the back of [[Nickel (U.S. coin)|Indian Head nickel]] in the early part of the 20th century. ''The City of Good Neighbors'' refers to the helpful, friendly spirit of its inhabitants.<ref>{{Cite news| last =| first =| coauthors =| title = Buffalo Widely Knows as 'City of Good Neighbors'| newspaper = Washington Afro-American| location =| page = 20| publisher =| date = August 14, 1951| url = http://news.google.com/newspapers?nid=2238&dat=19510814&id=CjsmAAAAIBAJ&sjid=rv4FAAAAIBAJ&pg=4955,329648| accessdate =April 4, 2010}}</ref> In the early 20th century, the city began calling itself the ''City of Light'' both because of the plentiful hydroelectric power made possible by nearby [[Niagara Falls]] and because it was the first city in America to have electric street lights.<ref name="cityjournal"/>
+
+===People===
+Buffalo was first settled primarily by [[New England]]ers. The first wave of European immigrants was a large influx of [[German American|Germans]]. The city was further populated by [[Irish American|Irish]] immigrants first, Erie Canal builders and then escaping [[Irish Potato Famine (1845–1849)|famine]], and infused by [[Polish American|Polish]], [[Italian American|Italian]], [[Jewish American|Jewish]], and more recently [[Latino]] populations, all of which have made it a [[melting pot]] of ethnic cultures. The newest immigrants are from [[Somalia]], [[Sudan]] and [[Asia]].
+
+The Old First Ward retains a strong Irish identity, and Kaisertown reflects a German heritage. Buffalo's [[Polonia]] is centered at the Broadway Market on the East Side. The market serves as a microcosm of Polish/Slavic traditions and delicacies.<ref>{{cite web| last =| first =| authorlink =| coauthors =| title = The History of the Broadway Market| work =| publisher = The Broadway Market| year = 2009| url = http://broadwaymarket.org/?page_id=2| format =| doi =| accessdate =April 4, 2010}}</ref> The East Side is now home to African Americans, many of whom came north during the [[Great Migration (African American)|Great Migration]]. The annual [[Juneteenth]] Festival is a large cultural celebration organized by African Americans<ref>[http://www.juneteenthofbuffalo.com/ Juneteenth Festival of Buffalo, NY]. Retrieved 7 July 2007.</ref> in [[Dr. Martin Luther King, Jr.]] Park.
+
+The West Side is home to the city's [[Hispanic]] community, predominantly of Puerto Rican descent. The West Side was once Buffalo's "Little Italy," but in the 1980s much of Buffalo's Italian American community moved to North Buffalo. There is also a small Italian-American enclave in the East Side neighborhood of Lovejoy. Many Buffalo households, churches, and restaurants continue to observe the Sicilian custom of preparing [[St. Joseph's Day]] (March 19) tables, at which various meatless [[Lent]]en courses are laid out for the poor.
+
+Buffalo is also home to a large [[American Jews|Jewish]] community. [[History of the Jews in Germany|German Jewish]] immigrants originally settled on Buffalo's Westside in the mid-19th century. Lower income [[History of the Jews in Russia and the Soviet Union|Russian Jews]] and [[History of the Jews in Poland|Polish Jews]] immigrating to the [[Niagara Frontier]] in the early 20th century initially settled on the Lower East Side, near William Street and Jefferson Avenue. The community migrated to the Masten Park neighborhood on the East Side, and then to [[North Buffalo, Buffalo, New York|North Buffalo]] between the 1940s and the 1960s. Although many still live in the city, particularly in North Buffalo and the Delaware District on the city's Westside, the majority of the Buffalo area's Jews now live in the northeastern suburbs. Buffalo's [[Jewish Community Center|Jewish Community centers]] are located in the Delaware District, North Buffalo and Amherst.
+
+Distancing itself from its industrial past, Buffalo is redefining itself as a cultural, banking, [[education]]al, [[medicine|medical]] center and architectural tourism destination. In 2001 [[USA Today]] named Buffalo the winner of its "City with a Heart" contest.<ref>{{cite web| last = Grossman| first = Cathy Lynn| authorlink =| coauthors =| title = Lots and lots of heart in Buffalo| work =| publisher = USA Today| date = 2001-02-12| url = http://www.cse.buffalo.edu/~rapaport/Buffalo/buffalo.ustoday.html| doi =
+| accessdate = 2007-03-23 }}</ref> proclaiming it the nation's "friendliest city." Buffalo is also a two-time winner of the [[All-America City Award]].<ref>{{cite web| last =| first =
+| authorlink =| coauthors =| title = All-America City: Past Winners| work =| publisher = National Civic League| date =| url = http://www.ncl.org/aac/past_winners/past_winners.html| doi =| accessdate = 2007-03-23 |archiveurl = http://web.archive.org/web/20070322180206/http://www.ncl.org/aac/past_winners/past_winners.html  |archivedate = 2007-03-22}}</ref>
+
+===Food===
+[[File:Homemade buffalo wings.jpg|thumb|right|Bowl of [[chicken wings|"Wings"]] ]]
+[[File:small - Beef on Weck.jpg|thumb|right|[[Beef on weck sandwich]]]]
+
+As a melting pot of cultures, [[cuisine]] in the Buffalo area reflects a variety of influences. These include [[Italian cuisine|Italian]], [[Irish cuisine|Irish]], [[Jewish cuisine|Jewish]], [[German cuisine|German]], [[Polish cuisine|Polish]], [[soul food|African American]], [[Greek cuisine|Greek]], [[Indian cuisine|Indian]] and [[Cuisine of the United States|American]] influences. [[Beef on weck sandwich]], Wardynski's [[kielbasa]], [[Sahlen's]] [[hot dogs]], [[sponge candy]], [[pastry heart]]s, [[pierogi]], and haddock [[Fish and chips|fish fries]] are among the local favorites, as is a [[loganberry#Uses|loganberry]]-flavored beverage that remains relatively obscure outside of the Western [[New York]] and Southern [[Ontario]] area.<ref>{{cite web
+| last = Horwitz| first = Jeremy| authorlink =| coauthors =| title = Loganberry: The Buffalo Drink You'll Like or Love| work =| publisher = Buffalo Chow.com| date = January 2008| url = http://www.buffalochow.com/2008/01/loganberry_the_buffalo_drink_y.html| doi =
+| accessdate =3 July 2009 }}</ref> Weber's mustard is a well known local producer of horseradish mustard which is popular in the Western NY area. [[Teressa Bellissimo]], the chef/owner of the city's [[Anchor Bar]], first prepared the now-widespread [[Buffalo wings|chicken wings]] here on October 3, 1964.<ref>[http://www.newyorker.com/archive/1980/08/25/1980_08_25_082_TNY_CARDS_000331411 The New Yorker,]</ref> Thousands of Western New Yorkers descend into the city for food festivals during the summer months, such as the [[Taste of Buffalo]] and the [[National Buffalo Wing Festival]].<ref>[http://www.tasteofbuffalo.com/ Taste of Buffalo]. Retrieved 7 July 2007.</ref> There are also festivals themed around ethnic cuisines such as the Italian, Hellenic and Lebanese festivals.
+
+Local or regional chains with a significant presence in the Buffalo area include Louie's Hot Dogs, [[Ted's Hot Dogs]], Anderson's Frozen Custard, John and Mary's Submarines, Duff's Famous Wings, Jim's Steakout, Just Pizza, Spot Coffee, [[Tim Hortons]], [[Mighty Taco]], Leonardi's, Bocce Club and La Nova Pizzeria. Buffalo's pizza is unique. Perhaps because Buffalo is geographically located halfway between [[New York City]] and [[Chicago|Chicago, Illinois]], the pizza made is likewise about halfway between thin-crust [[New York-style pizza]] and deep-dish [[Chicago-style pizza]].<ref>{{cite web| last = Addotta| first = Kip| authorlink =| coauthors =| title = Pizza!| work = Kip Addotta dot com| publisher =| date =| url = http://www.kipaddotta.com/food/pizza.html| doi = | accessdate =3 July 2009 }}</ref>
+
+The city is home to the Pearl Street Brewery and [[Flying Bison Brewing Company]], who continue Buffalo's [[brewery|brewing]] traditions. Labatt USA, the US operation for [[Labatt|Labatt Beer]], a Canadian brewer, is headquartered in Buffalo.<ref>[http://www.buffalonews.com/145/story/620667.html Buffalo News] {{dead link|date=January 2011}}</ref>
+
+Buffalo has several specialty import/grocery stores in old ethnic neighborhoods, and is home to an eclectic collection of cafes and restaurants that serve adventurous, cosmopolitan fare. Locally-owned restaurants offer [[Chinese cuisine|Chinese]], [[German cuisine|German]], [[Japanese cuisine|Japanese]], [[Korean cuisine|Korean]], [[Vietnamese cuisine|Vietnamese]], [[Thai cuisine|Thai]], [[Mexican cuisine|Mexican]], [[Italian cuisine|Italian]], [[Greek cuisine|Greek]], [[Arab cuisine|Arab]], [[Indian cuisine|Indian]], [[Caribbean cuisine|Caribbean]], [[Soul food]], and [[French cuisine|French]].<ref>{{cite web| last =
+| first =| authorlink =| coauthors =| title = Famous Buffalo and Western New York Foods, Restaurants & Food Festivals| work =| publisher = Buffalo Chow.com| date =| url = http://www.buffalochow.com/buffalofoods.html| doi =| accessdate =3 July 2009 }}</ref><ref>{{cite web| last =| first =| authorlink =| coauthors =| title = Top 100 Buffalo/WNY Foods (and Restaurants), Part 1 of 5| work =| publisher = Buffalo Chow.com| date = February 10, 2009| url = http://www.buffalochow.com/2009/02/top_100_buffalowny_foods_and_r.html| doi = | accessdate =3 July 2009 }}</ref>
+
+Several well-known food companies are based in Buffalo. Non-dairy whipped topping, later imitated by [[Cool Whip]], was invented in Buffalo in 1945 by Robert E. Rich, Sr. His company, [[Rich Products]], is one of the city's largest private employers. [[General Mills]] was organized in Buffalo, and Gold Medal brand flour, [[Wheaties]], [[Cheerios]] and other General Mills brand cereals are manufactured here. One of the country's largest cheese manufacturers, [[Sorrento Lactalis|Sorrento]], has been here since 1947. [[Archer Daniels Midland]] operates its largest flour mill in the city.{{Citation needed|date=January 2009}} Buffalo is home to one of the largest privately held food companies in the world, [[Delaware North Companies]], which operates concessions in sports arenas, stadiums, resorts, and many state & federal parks.<ref>{{cite web| last =| first = | authorlink =| coauthors =| title = Who We Are&nbsp;— A Global Leader in Hospitality and Food Service| work =| publisher = Delaware North Companies Homepage| date =| url = http://www.delawarenorth.com/Who-We-Are.aspx| format =| doi =| accessdate =3 July 2009 }}</ref>
+
+===Art===
+[[File:Albright-Knox Art Gallery 2.jpg|thumb|right|Albright-Knox Art Gallery from [[Delaware Park-Front Park System|Delaware Park]] (in the back)]]
+Buffalo is home to over 50 private and public [[art gallery|art galleries]],<ref>[http://www.city-buffalo.com/files/1_2_1/Public%20Art%20Website/Web%20Pages/Public%20Art%20Main%20Page.html City of Buffalo Public Art Collection]</ref> most notably the [[Albright-Knox Art Gallery]], home to a world-class collection of [[Modern art|modern]] and [[contemporary art]]. The local art scene is also enhanced by the [[Burchfield-Penney Art Center]], Hallwalls Contemporary Arts Center, [[CEPA Gallery]], and many small galleries and studios.<ref>[http://www.hallwalls.org/ Hallwalls Contemporary Arts Center]. Retrieved 7 July 2007.</ref><ref>[http://www.cepagallery.org/ CEPA Gallery]. Retrieved 7 July 2007.</ref> ''AmericanStyle'' ranked Buffalo fourth in its list of America's top art destinations.
+
+Two street festivals&nbsp;– the [[Allentown Art Festival]] and the [http://www.elmwoodartfest.org Elmwood Festival of the Arts]&nbsp;– bring thousands of people to the city to browse and purchase original crafts. The [[Buffalo Philharmonic Orchestra]], which performs at [[Kleinhans Music Hall]], is one of the city's most prominent performing arts institutions. In the 1960s and 70s, under the musical leadership of Lukas Foss and Michael Tilson Thomas, the Philharmonic was generally regarded as the leading orchestra in the US for new music. [[Shea's Performing Arts Center]], long known as Shea's Buffalo, is an 1920s movie palace that continues to show productions and concerts. Its interior was designed by Louis Comfort Tiffany. Buffalo is also home to the second largest free outdoor [[Shakespeare]] festival in the United States, [[Shakespeare in Delaware Park]]. Filmmaker, writer, painter and musician [[Vincent Gallo]] was born in Buffalo in 1962 and lived there until 1978 when he moved out on his own to New York City.
+
+===Music===
+Buffalo is also the founding city for several mainstream bands and musicians, most famously [[Rick James]], [[Billy Sheehan]] and [[The Goo Goo Dolls]]. [[Vincent Gallo]], Buffalo-born filmmaker and musician, played in several local bands. [[Jazz fusion]] band [[Spyro Gyra]] also got its start in Buffalo.{{Citation needed|date=August 2009}} Well-known indie artist [[Ani DiFranco]] hails from Buffalo, and it is the home of her "Righteous Babe" record label. [[10,000 Maniacs]] are from nearby Jamestown, but got their start in Buffalo, which led to lead singer [[Natalie Merchant]] launching a successful solo career. [[Death Metal]] band [[Cannibal Corpse]] reached national fame in 1994 when they appeared in the movie ''[[Ace Ventura: Pet Detective]]'', at the request of lead actor [[Jim Carrey]].{{Citation needed|date=August 2009}} The director agreed and decided to actually have Jim jump on stage with the band and start singing a song of theirs in the film to escape two pursuing goons.{{Citation needed|date=August 2009}} Other bands include [[Last Conservative]], [[Every Time I Die]], [[Snapcase]], [[Cute is What We Aim For]], [[It Dies Today]], [[Dead Hearts]], [[The Reign of Kindo]], (former [[This Day and Age]]), [[Malevolent Creation]] and [[moe.]] also started off in Buffalo. Power Pop/Indie Punk Trio, [[Lemuria (band)|Lemuria]] also derive from Buffalo.
+
+===Architecture===
+[[File:Buffalo Japanese Garden.JPG|thumb|right|Buffalo Japanese Garden]]
+{{see also|Category:Buildings and structures in Buffalo, New York|List of tallest buildings in Buffalo}}
+
+The New York Times has declared that Buffalo is one of the top cities in America for architecture. Approximately 80 sites are included on the [[National Register of Historic Places listings in Buffalo, New York|National Register of Historic Places]]. All of the major American architects of the 19th and early 20th century built masterpieces in Buffalo, most of which are still standing. They include:
+
+The country's largest intact parks system designed by [[Frederick Law Olmsted]] and [[Calvert Vaux]], including [[Delaware Park-Front Park System|Delaware Park]]. Buffalo was the first city for which Olmsted designed (in 1869) an interconnected park and parkway system rather than stand-alone parks.
+
+The [[Prudential (Guaranty) Building (Buffalo, New York)|Guaranty Building]], by [[Louis Sullivan]], was one of the first steel-supported, curtain-walled buildings in the world, and its 13 stories made it, at the time it was built (1895), the tallest building in Buffalo and one of the world's first true skyscrapers.<ref>[http://ah.bfn.org/a/church/28/tc.html Louis Sullivan - Guaranty / Prudential Building], accessed 7 July 2007 {{Wayback | url=http://ah.bfn.org/a/church/28/tc.html | date=20070702045925 }}</ref> It is a [[National Historic Landmark]].
+
+The Hotel Buffalo (originally the Statler Hotel) by August Esenwein and [[James A. Johnson (architect)|James A. Johnson]] was the first hotel in the world to feature a private bath in each room.
+
+The [[H. H. Richardson Complex]], originally the New York State Asylum for the Insane, is [[Richardsonian Romanesque]] in style and was the largest commission designed by prominent architect [[Henry Hobson Richardson]]. The grounds of this hospital were designed by Olmsted. Though currently in a state of disrepair, New York State has allocated funds to restore this treasure.
+
+There are several buildings by [[Frank Lloyd Wright]], including the [[Darwin D. Martin House]], [[George Barton House]], [[William R. Heath House]], [[Walter V. Davidson House]], [[Graycliff|The Graycliff Estate]], as well as the now demolished [[Larkin Administration Building]].<ref>[http://ah.bfn.org/a/soldiers/76/ William Heath House], accessed 7 July 2007 {{Wayback | url=http://ah.bfn.org/a/soldiers/76/  | date=20071228212810 }}</ref><ref>[http://graycliff.bfn.org/ The Graycliff Estate]. Retrieved 7 July 2007. {{dead link|date=March 2011}}</ref> Constructed in 2007 on Buffalo's Black Rock Canal is a Wright-designed boathouse originally intended, but never built, for the University of Wisconsin–Madison rowing team. Along as a tourist destination, it functionally serves many Buffalo-area rowing teams belonging to the [[West Side Rowing Club]]. Buffalo has more [[Frank Lloyd Wright]] buildings than any other city except [[Chicago]].
+
+The [[Buffalo City Hall]] building by George Dietel and John J. Wade is a spectacular [[art deco]] skyscraper and is listed on the National Register of Historic Places.
+
+'''Other notable buildings:'''
+[[File:20070223 AlbrightKnox Art Gallery.JPG|thumb|[[Albright-Knox Art Gallery]] from Elmwood Avenue]]
+* [[Buffalo Central Terminal]], the massive [[Art Deco]] railroad station designed by Alfred T. Fellheimer and Steward Wagner.
+* [[Lafayette High School (Buffalo)|Lafayette High School]], a stone, brick and terra-cotta structure in the French Renaissance Revival style by architects August Eisenwein and [[James A. Johnson (architect)|James A. Johnson]], is the oldest public school in Buffalo that remains in its original building, and is on the [[National Register of Historic Places]].
+* [[St. Adalbert's Basilica]], [[Church of St. Stanislaus, Bishop and Martyr (Buffalo, New York)|St. Stanislaus, Bishop and Martyr Church]], and [[Corpus Christi R. C. Church Complex|Corpus Christi]] are all large, romanesque style, historic churches that can be found on the city's east side.
+* [[Albright-Knox Art Gallery]], a world-renowned repository of art, was designed by [[Edward Brodhead Green]]. The new modern art wing was designed by [[Gordon Bunshaft]], a native [[Buffalonian]] and graduate of the above-noted [[Lafayette High School (Buffalo)|Lafayette High School]].
+* [[Richard Upjohn]] designed [[St. Paul's Cathedral (Buffalo)|St. Paul's]] [[Episcopal Church in the United States of America|Episcopal]] Cathedral
+* [[Eliel Saarinen]] and [[Eero Saarinen]] designed [[Kleinhans Music Hall]]
+* [[Max Abramovitz]] designed [[Temple Beth Zion (Buffalo, New York)|Temple Beth Zion]]<ref>[http://www.tbz.org/ Temple Beth Zion]. Retrieved 7 July 2007.</ref>
+* [[Alexander Phimister Proctor]] designed the ''Lions'' for the [[McKinley Monument]]
+* [[Grain elevator]]s were invented here in 1842. Buffalo's collection is the largest in the world.
+
+<gallery>
+File:Buffalo_City_Hall.jpg|[[Buffalo City Hall]] building's [[art deco]]
+File:Darwin D. Martin House.jpg|[[Darwin D. Martin House]] by [[Frank Lloyd Wright]]
+File:Kleinhans Music Hall.jpg|[[Kleinhans Music Hall]] by Eliel and [[Eero Saarinen]]
+File:Buffalo and Erie County Historical Society.jpg|[[Buffalo and Erie County Historical Society]]
+File:Erie County Courthouse.jpg|Erie County Hall
+File:Asbury Delaware Church, Buffalo 1.jpg|Asbury Delaware Church
+File:Buffalo Central Terminal 2.jpg|[[Buffalo Central Terminal]]
+File:General Electric Tower.JPG|[[Electric Tower]]
+</gallery>
+
+===Nightlife===
+{{Original research|date=June 2008}}{{Refimprove|date=June 2008}}
+[[File:Sheas.jpg|thumb|right|Shea's Performing Arts Center]]
+[[Last call (bar term)|Last call]] is at 4&nbsp;a.m. in Buffalo, rather than 2&nbsp;a.m. as in most other areas of the U.S. This is often attributed to the historically high density of industrial facilities and the demand of second and third [[shift work|shift]] patrons. It is also because [[New York]] law allows bars to be open until 4&nbsp;a.m. (However, local municipalities can override it to an earlier time.)
+
+Several distinct and thriving [[Nightlife (activity)|nightlife]] districts have grown around clusters of bars and nightclubs in the city. The most visible nightlife district is West Chippewa Street,<ref>[http://www.westchippewa.com/ Buffalo Bills, Buffalo Sabres, Buffalo NightLife, chippewa street, west chippewa street, Chippewa Street, West Chippewa Street]</ref> located between Main Street and South Elmwood Avenue. The area is home to high-energy dance clubs, crowded bars, trendy coffeehouses, and restaurants. [[Allentown, Buffalo, New York|Allentown]], where bars are as numerous but the atmosphere is a bit more relaxed, is a several minute walk north to Allen Street. Allen Street near Main Street houses several bars, while Allen near Elmwood has many bars that feature live music. Continuing up Elmwood Avenue from Allentown is the Elmwood Strip, which runs about two miles (3&nbsp;km) to [[Buffalo State College]]. This strip has numerous small boutiques and restaurants, with few large corporate establishments. Crowds on this strip include everyone from college students to families to the elderly.
+
+===Public festivals===
+Like many large cities, numerous festivals have become part of the city's culture and tradition. Though most of the festivals occur during the summer months, the city has recently pushed efforts to have winter festivals as well in an effort to capitalize on the region's snowy reputation.
+
+[[File:Buffalo maritime center launch.JPG|thumb|right|225px|Maritime Center boat launch along the [[Commercial Slip]].]]
+
+====Summer festivals====
+* [[Allentown Art Festival]] - Largest festival of the year on the second weekend of June in the city's Allentown neighborhood.
+* [[Taste of Buffalo]] - One of the largest outdoor food festivals in the country.
+* [http://www.buffalogreekfestival.org Buffalo Greek Festival]
+* [http://www.buffaloitalianfestival.com/ Italian Festival]
+* [[National Buffalo Wing Festival]]
+* [http://www.askbhsc.org/Home/BuffaloBrewFest/ Buffalo Brewfest]
+* [http://www.curtainupbuffalo.com/ Curtain Up!] - Marks the beginning of the Buffalo theater season.
+* [[Thursday at the Square]] - Weekly outdoor summer concert series on Thursday evenings during the summer and fall
+*[http://buffaloredcross.org/bash.php  The BASH]- A military themed fundraiser in which all proceeds go towards vital disaster preparedness education and response in Western New York communities.
+* Elmwood Avenue Festival of the Arts <ref>[http://eafa.techriver.net/ Welcome to the 2011 Elmwood Avenue Festival of the Arts!]</ref>
+====Winter festivals====
+* [[Buffalo Powder Keg Festival]]
+* [[Labatt Blue Pond Hockey]]
+* Saint Patrick's Day Parade
+* [http://dyngusdaybuffalo.com/ Dyngus Day Buffalo]
+
+===Other points of interest===
+[[File:U.S.S. Little Rock 6.1.jpg|thumb|right|[[Buffalo and Erie County Naval & Military Park]]]]
+* [[Edward M. Cotter (fireboat)|Edward M. Cotter fireboat]]&nbsp;– Considered to be the world's oldest active [[fireboat]] and is a United States [[National Historic Landmark]]
+* [[Buffalo and Erie County Botanical Gardens]]
+* [[Buffalo and Erie County Historical Society]]<ref>[http://www.bechs.org/ The Buffalo & Erie County Historical Society Buffalo New York]</ref>
+* [[Buffalo Museum of Science]]<ref>[http://www.sciencebuff.org/ Buffalo Museum of Science - Home]</ref>
+* [[Buffalo Zoo]]&nbsp;– The third oldest zoo in the United States established in 1875
+* [[Forest Lawn Cemetery (Buffalo)|Forest Lawn Cemetery]]
+* "Mark Twain Room" at the Central Branch of the [[Buffalo and Erie County Public Library]].<ref>[http://www.buffalolib.org/libraries/collections/index.asp?sec=twain Buffalo & Erie County Public Library: Collections of Special Interest]</ref> Contains the original manuscript of ''[[Adventures of Huckleberry Finn|Huckleberry Finn]]''
+* [[USS Little Rock (CG-4)]] in [[Buffalo and Erie County Naval & Military Park]]
+* The [[Anchor Bar]]&nbsp;– birthplace of the [[Buffalo wing]] or the chicken wing as it is commonly called in the region
+* [[Lafayette Square, Buffalo|Lafayette Square]]
+* [[Penn Dixie Paleontological and Outdoor Education Center]]
+
+==Transportation==
+===Airport===
+Buffalo is served by the [[Buffalo Niagara International Airport]], located in [[Cheektowaga]]. The airport, recently re-constructed, serves over 5 million passengers a year and is still growing. [[Buffalo Niagara International Airport]] ranks among the five cheapest airports from which to fly in the country, according to the U.S. Bureau of Transportation Statistics. The average round trip flight cost is $295.58.<ref>{{cite news|title=Area flies high on low fares|author=Sharon Linstedt|work=[http://www.buffalonews.com/103/story/63037.html Buffalo News]|date=2007-04-24}} {{dead link|date=January 2011}}</ref> In the last few years there has been a surge in Canadians flying out of Buffalo, mainly due to much cheaper tax and airline surcharges, as compared with Canadian airports and the ability to fly on some US based discount carriers not available in Canada (for example, [[JetBlue Airways]] and [[Southwest Airlines]]). As of 2006, plans are in the works by U.S. Senator [[Charles Schumer]] to make the under-used [[Niagara Falls International Airport]] into an international cargo hub for [[New York]] and [[Toronto]], as well as Canada as a whole.<ref>{{cite news|title=Niagara airport pushed as trade hub; Schumer joins effort to bring global cargo|author=Bill Michelmore|work=Buffalo News|page=B1|date=2006-06-26}}</ref>
+[[File:Main Court Building, Buffalo.JPG|right|thumb|The [[Buffalo Metro Rail|Metro Rail]] in downtown]]
+
+===Public transit===
+The [[Niagara Frontier Transportation Authority]] (NFTA) operates [[Buffalo Niagara International Airport]] and [[Niagara Falls International Airport]], and the [[public transport|public transit]] system throughout the Buffalo area. The [[NFTA]] operates bus lines throughout the city and suburbs, as well as the [[Buffalo Metro Rail|Metro Rail]] transit system in the city.
+
+The [[Buffalo Metro Rail|Metro Rail]] is a {{convert|6.4|mi|km}} long, single line [[light rail]] system that extends from [[Erie Canal Harbor]] in downtown Buffalo to the [[University Heights, Buffalo, New York|University Heights]] district (specifically, the South Campus of [[University of Buffalo]]) in the northern part of the city. The downtown section of the line runs above ground and is free of charge to passengers. North of Theater Station, at the northern end of downtown, the line moves underground, remaining underground until it reaches the northern terminus of the line at University Heights. Passengers pay a fare to ride this section of the rail.
+
+A new NFTA project is underway, often called "Cars on Main Street", that will substantially revise the downtown portion of the Metro Rail. It will allow vehicular traffic and Metro Rail cars to share Main St. in a manner similar to that of the trolleys of San Francisco. The design includes new stations and pedestrian-friendly improvements. The first phase of the project, restoring two way traffic on Main Street between Edward and West Tupper, was completed in 2009. When the entire project is complete in the next few years, the downtown portion of Main St. will be re-opened to vehicular traffic for the first time in almost 30 years.{{Citation needed|date=May 2010}}
+
+===Intercity rail===
+Two train stations, [[Buffalo-Depew (Amtrak station)|Buffalo-Depew]] and [[Buffalo-Exchange Street Station|Buffalo-Exchange Street]] serve the city and are operated by [[Amtrak]].
+
+Freight service for Buffalo is served by [[CSX Transportation]] and [[Norfolk Southern]] (NS), as well as [[Canadian National]] (CN) and [[Canadian Pacific]] (CP) railroads from across the Border. The area has 4 large rail yards: Frontier (CSX), Bison (NS), SK (NS / CP) and Buffalo Creek (NS / CSX). A large amount of hazardous cargo also crosses through the Buffalo area, such as liquid [[propane]] and [[anhydrous ammonia]].
+
+===Waterways===
+Buffalo is at the eastern end of [[Lake Erie]], one of the [[Great Lakes]], which boasts the greatest variety of freshwater sportfish in the country. The Lake serves as a playground for numerous personal yachts, sailboats, power boats and watercraft, and provides a short water route to excellent sand beaches on the nearby [[Ontario, Canada|Ontario]] (Canada) shore. The city has an extensive [[breakwall]] system protecting its inner and outer Lake Erie [[harbor]]s, which are maintained at commercial navigation depths for [[Great Lakes]] freighters.
+
+A Lake Erie tributary that flows through south Buffalo is the [[Buffalo River (New York)|Buffalo River]], for which the city is named. Buffalo is historically linked to the fabled [[Erie Canal]], which ends where the [[Black Rock Channel]] enters [[Lake Erie]]. When the Canal was dedicated in 1825, its conceiver, New York State governor [[DeWitt Clinton]] took waters from Lake Erie at Buffalo's Western Terminus of the Canal (now the [[Commercial Slip]]). He sailed to New York City on the Canal packet ''[[Seneca Chief]]'', which later returned to Buffalo with Atlantic Ocean water. The seawater was poured into the Lake by Judge and future Buffalo Mayor [[Samuel Wilkeson]]. Once a major route for passengers and cargo, the Canal is now used primarily for pleasure craft and some light local freight, and in Buffalo it bypasses the swift upper reach of the [[Niagara River]]. A tributary of the Niagara River is [[Scajaquada Creek]], which flows though Buffalo, via the [[Frederick Law Olmsted]]-designed Delaware Lake and Park.
+
+===National and state highway access===
+[[File:Buffalo area road network map.png|thumb|right|Major highways that serve the Greater Buffalo area]]
+* [[File:I-90.svg|20px]] [[File:NYS Thruway Sign.svg|20px]] [[Interstate 90]] ([[New York State Thruway]])
+* [[File:I-190.svg|20px]] [[File:NYS Thruway Sign.svg|20px]] [[Interstate 190 (New York)|Interstate 190]], New York State Thruway's Niagara Section, travels from I-90 in southwest Cheektowaga to Niagara River in Lewiston. The only tolled portion is now the bridges connecting Grand Island to Niagara Falls (north), and Buffalo (south).
+* [[File:I-290 (NY).svg|20px]] [[Interstate 290 (New York)]], Youngmann Memorial Highway, connects Buffalo with its northern suburbs of Amherst and Tonawanda, and provides a route to Niagara Falls that bypasses the city of Buffalo.
+* [[File:I-990.svg|20px]] [[Interstate 990]], short interstate highway located entirely in the town of Amherst, NY.
+* [[File:US 62.svg|20px]] [[US 62|U.S. Route 62, Bailey Ave and South Park Ave.]]
+* [[File:NY-5.svg|20px]] [[NY 5|NY Route 5, Main St.]]
+* [[File:NY-130.svg|20px]] [[NY 130|NY Route 130, Broadway]]
+* [[File:NY-384.svg|20px]] [[NY 384|NY Route 384, Delaware Ave.]]
+* [[File:NY-354.svg|20px]] [[NY 354|NY Route 354, Clinton St.]]
+* [[File:NY-266.svg|20px]] [[New York State Route 266|NY Route 266, Niagara St.]]
+* [[File:NY-265.svg|20px]] [[NY 265|NY Route 265, Military Rd. and Tonawanda St.]]
+* [[File:NY-198.svg|20px]] [[New York State Route 198|NY Route 198, Scajaquada Expressway]]
+* [[File:NY-33.svg|20px]] [[NY Route 33#Kensington Expressway|NY Route 33, Kensington Expwy.]]
+
+==Federal offices==
+===US Army Corps of Engineers===
+The offices of the Buffalo District, [[US Army Corps of Engineers]] are located adjacent to the Black Rock Lock in the Black Rock channel of the [[Erie Canal]]. In addition to maintaining and operating the lock, the District is responsible for planning, design, construction and maintenance of water resources projects in an area extending from [[Toledo, Ohio]] to [[Massena (town), New York|Massena, New York]]. These include the [[Mount Morris Dam|flood-control dam]] at [[Mount Morris (town), New York|Mount Morris, New York]], oversight of the lower [[Great Lakes]] ([[Lake Erie|Erie]] and [[Lake Ontario|Ontario]]), review and permitting of wetlands construction, and remedial action for hazardous waste sites.
+
+Buffalo is also the home of a major office of the [[National Weather Service]] (NOAA), which serves all of western and much of central New York State.
+
+===Federal Bureau of Investigation (FBI)===
+Buffalo is home to one of the 56 national FBI field offices. The field office covers all of Western New York and parts of the Southern Tier and Central New York. The field office operates several task forces in conjunction with local agencies to help combat issues such as gang violence, terrorism threats and health care fraud.<ref>[http://buffalo.fbi.gov/ FBI Buffalo Division]</ref>
+
+===Federal courts===
+Buffalo is also the location of the chief judge, [[United States Attorney]], and administrative offices for the [[United States District Court for the Western District of New York]].
+
+==Sports teams==
+===Current teams===
+{{multiple image
+| align = right
+| direction = vertical
+| header =
+| header_align = left/right/center
+| header_background =
+| footer =
+| footer_align = left/right/center
+| footer_background =
+| width =
+| image1 = Dunn Tire Park.jpg
+| width1 = 200
+| caption1 = Inside [[Coca-Cola Field]], home to the [[Buffalo Bisons]]
+| image2 = 20080305 Dunn Tire Park and HSBC Arena.JPG
+| width2 = 200
+| caption2 = Outside [[Coca-Cola Field]] with [[HSBC Arena (Buffalo)|HSBC Arena]] in the background
+| image3 = Football in ub.jpg
+| width3 = 200
+| caption3 = Division I football played in UB
+}}
+{| class="wikitable"
+|-
+! | Sport
+! | League
+! | Club
+! | Founded
+! | Venue
+! | League championships
+! | Championship years
+|-
+| | [[American football|Football]]
+| | [[National Football League|NFL]]
+| | [[Buffalo Bills]]
+| | 1960
+| | [[Ralph Wilson Stadium]]
+| | 2*
+| | 1964,1965*
+|-
+| | [[Hockey]]
+| | [[National Hockey League|NHL]]
+| | [[Buffalo Sabres]]
+| | 1970
+| | [[HSBC Arena (Buffalo)|HSBC Arena]]
+| | 0
+| |
+|-
+| | [[Baseball]]
+| | [[International League|IL]]
+| | [[Buffalo Bisons]]
+| | 1979
+| | [[Coca-Cola Field]]
+| | 3
+| | 1997, 1998, 2004
+|-
+| | [[Lacrosse]]
+| | [[National Lacrosse League|NLL]]
+| | [[Buffalo Bandits]]
+| | 1992
+| | [[HSBC Arena (Buffalo)|HSBC Arena]]
+| | 4
+| | 1992, 1993, 1996, 2008
+|-
+| | [[Soccer]]
+| | [[National Premier Soccer League|NPSL]]
+| | [[FC Buffalo]]
+| | 2009
+| | [[All-High Stadium]]
+| | 0
+| | N/A
+|-
+| | [[Soccer]]
+| | [[USL W-League]]
+| | [[Buffalo Flash]]<ref name="Wleague">[http://wleague.uslsoccer.com/home/266596.html United Soccer Leagues (USL)]</ref>
+| | 2009
+| | [[Demske Sports Complex]]
+| | 1
+| | 2010
+|}* Championships listed are American Football League championships, not NFL championships.
+
+===Former teams===
+* The [[Buffalo Bisons (NL)|Buffalo Bisons]] of the [[National League]] from 1879–1885.
+* The [[Buffalo Bisons (PL)|Buffalo Bisons]] of the defunct [[Players' League]] in 1890.
+* The [[Buffalo Buffeds/Blues]] of the defunct [[Federal League]] of baseball from 1914–1915.
+* The [[Buffalo (NFL)|Buffalo Niagaras, Prospects, All-Americans, Bisons, and Rangers]] of the [[National Football League]] from 1918–1929.
+* The [[Buffalo Bills (AAFC)|Buffalo Bisons]] of the defunct [[All-America Football Conference]] in 1946.
+* The [[Buffalo Bills (AAFC)|Buffalo Bills]] of the defunct [[All-America Football Conference]] from 1947–1949.
+* The [[Buffalo Bisons (AHL)|Buffalo Bisons]] of the [[American Hockey League]] from 1940–1970.
+* The Buffalo Bisons of the [[National Basketball League (United States)|National Basketball League]] in 1946 which are the [[Atlanta Hawks]].
+* The [[Buffalo Braves]] of the [[National Basketball Association]] from 1970–1978. (became the San Diego Clippers then the Los Angeles Clippers).
+* The [[Buffalo Norsemen]] of the [[North American Hockey League]] from 1975–1976.
+* The Buffalo Blazers outdoor soccer team.
+* The Buffalo Royals of the [[World TeamTennis]] league in 1974.
+* The [[Buffalo Sharks]] of the [[American Basketball Association (2000–)|American Basketball Association]] from 2005 to 2008.
+* The [[Buffalo Stallions]] of the defunct [[Major Soccer League|Major Indoor Soccer League]] from 1979–1984.
+* The [[Buffalo Stampede (RHI)|Buffalo Stampede]] of the defunct [[Roller Hockey International]] from 1994–1995.
+* The [[Buffalo Wings (roller hockey)|Buffalo Wings]] of the defunct [[Roller Hockey International]] and Major League [[Roller Hockey]] from 1997–1999.
+* The [[Buffalo Blizzard]] of the defunct [[National Professional Soccer League II]] from 1992–2001.
+* The [[Buffalo Destroyers]] of the [[Arena Football League (1987-2008)|Arena Football League]] from 1999–2003.
+* The [[Queen City FC]] of the [[National Premier Soccer League]] from 2007 to 2008.
+
+==Media==
+{{Main|Media in Buffalo, New York}}
+
+==International relations==
+===Twin towns&nbsp;— Sister cities===
+Buffalo has a number of [[Twin towns and sister cities|sister cities]] as designated by [[Sister Cities International]] (SCI):<ref>[http://www.sister-cities.org/icrc/directory/USA/NY New York State Sister Cities]. Sister Cities, Inc.'' {{dead link|date=January 2011}}</ref><ref>[http://www.ci.buffalo.ny.us/Home/OurCity/Buffalo_Sister_Cities Sister Cities] from Buffalo's website</ref>
+* {{Flagicon|France}} [[Lille]], [[France]] (1989)<ref>{{cite web | title =Lille, France&nbsp;— City of Buffalo | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/Home/OurCity/Buffalo_Sister_Cities/Lille_France | accessdate =2008-12-24}}</ref>
+* {{Flagicon|England}} [[Wolverhampton]], [[England]], [[United Kingdom]]
+* {{Flagicon|Germany}} [[Dortmund]], [[Germany]] (1972)<ref>{{cite web | title =Dortmund, Germany&nbsp;— City of Buffalo | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/Home/OurCity/Buffalo_Sister_Cities/Dortmund_Germany | accessdate =2008-12-24}}</ref>
+* {{Flagicon|Italy}} [[Pescasseroli]], [[Italy]]
+* {{Flagicon|Italy}} [[Siena]], Italy (1961)<ref>{{cite web | title =Siena, Italy&nbsp;— City of Buffalo | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/Home/OurCity/Buffalo_Sister_Cities/Siena_Italy | accessdate =2008-12-24}}</ref>
+* {{Flagicon|Italy}} [[Torremaggiore]], Italy
+* {{Flagicon|Jamaica}} [[Saint Ann Parish, Jamaica|Saint Ann]], [[Jamaica]] (2007)<ref>{{cite news | title =Buffalo gains sister city: St. Ann, Jamaica | work =Buffalo News | url =http://www.buffalonews.com/cityregion/buffaloerie/story/166115.html?imw=Y | date =September 19, 2007 | accessdate =2008-12-24|archiveurl = http://web.archive.org/web/20070925055948/http%3A//www.buffalonews.com/cityregion/buffaloerie/story/166115.html%3Fimw%3DY |archivedate = September 25, 2007|deadurl=yes}}</ref>
+* {{Flagicon|Japan}} [[Kanazawa, Ishikawa|Kanazawa]], [[Japan]] (1962)
+* {{Flagicon|Poland}} [[Rzeszów]], [[Poland]] (1974)<ref name="Rzeszów">{{cite web |url=http://www.rzeszow.pl/wspolpraca-miedzynarodowa/informacja-o-wspolpracy-rzeszowa-z-miastami-partnerskimi/668,informacja-o-wsp-lpracy-rzeszowa-z-miastami-partnerskimi.html |title=Serwis informacyjny UM Rzeszów&nbsp;— Informacja o współpracy Rzeszowa z miastami partnerskimi |publisher=www.rzeszow.pl |accessdate=2010-02-02 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref name="Rzeszów-Buffalo">{{cite web | title =History | publisher =Buffalo-Rzeszow Sister Cities, Inc. | url =http://www.brsc.us/history/index.htm | accessdate =2008-12-24}}</ref>
+* {{Flagicon|Russia}} [[Tver]], [[Russia]] (1989)<ref>{{cite web | title =Tver, Russia&nbsp;— City of Buffalo | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/Home/OurCity/Buffalo_Sister_Cities/Tver_Russia | accessdate =2008-12-24}}</ref>
+
+===Partnerships===
+Buffalo also has partnerships with the following towns:<ref>{{cite web | title =Buffalo Sister-Cities | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/files/1_2_1/city_departments/SPlanning/pdfs/SisterCitiesBrochure.pdf | accessdate =2009-12-29}}</ref>
+* {{Flagicon|Ghana}} [[Cape Coast]], [[Ghana]]
+* {{Flagicon|Northern Ireland|union}} [[Derry]], [[Northern Ireland]], [[UK]]
+* {{Flagicon|Ukraine}} [[Drohobych]], [[Ukraine]] (2001)<ref>{{cite web | title =Buffalo and Drohobych join ranks of sister cities| work = The Ukrainian Weekly | date =2001-04-01 | url =http://www.ukrweekly.com/Archive/2001/130120.shtml | accessdate =2008-12-24|archiveurl = http://web.archive.org/web/20070930033451/http%3A//www.ukrweekly.com/Archive/2001/130120.shtml |archivedate = September 30, 2007|deadurl=yes}}</ref>
+* {{Flagicon|Ukraine}} [[Horlivka]], Ukraine (2007)<ref>{{cite web | title =Buffalo, N.Y. and Horlivka, Ukraine Foster Sister City Relationship | publisher =City of Buffalo, New York | url =http://www.ci.buffalo.ny.us/Home/Mayor/Archive_Press_Releases/Leadership/2007Archives/May_2007/BUFFALONYANDHORLIVKAUKRAINEFOSTERSISTER | date =2007-05-25 | accessdate =2008-12-24}}</ref>
+* {{Flagicon|South Sudan}} [[Juba]], [[South Sudan]]
+* {{Flagicon|Israel}} [[Kiryat Gat]], [[Israel]]
+* {{Flagicon|Brazil}} [[Marília]], [[Brazil]]
+
+==Consulates in Buffalo==
+* [[Canada]]&nbsp;– Consulate-General
+
+Honorary Consulates:
+* [[Austria]]
+* [[Czech Republic]]
+* [[France]]
+* [[Germany]]
+* [[Italy]] (Vice Consulate)
+* [[Japan]]
+* [[Switzerland]]
+
+==See also==
+{{Portal|New York}}
+* [[Buffalo Airfield]]
+* [[Buffalo City Hall]]
+* [[Buffalo Fire Department]]
+* [[East Side, Buffalo]]
+* [[List of people from Buffalo, New York|Notable people from Buffalo]]
+* [[Polish Cathedral]]
+* [[South Buffalo]]
+* [[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* [http://www.buffaloresearch.com/bestbooks.html The Ten Most Indispensable Books About Buffalo]
+
+==External links==
+{{Sister project links}}
+* [http://www.city-buffalo.com/ City of Buffalo, New York]
+* [http://www.pbase.com/kjosker/once_upon_a_time Photo Essay - "Once Upon a Time in Buffalo," by Karl Josker (accessed 8/07/10)]
+* [http://www.buffalolib.org/ Buffalo & Erie County Public Library]
+* [http://www.culturalniagara.com/ Buffalo Niagara Arts and Culture]
+* [http://www.sheas.org/ Shea's Performing Arts Center]
+* {{dmoz|Regional/North_America/United_States/New_York/Localities/B/Buffalo|Buffalo}}
+* [http://www.visitbuffaloniagara.com/ Visitor Information from Buffalo Niagara Convention & Visitors Bureau]
+* {{Wikitravel|Buffalo (New York)|Buffalo}}
+* [http://www.helpstoptheviolence.com/ Stop The Violence Movement In Buffalo Ny]
+* [http://www.spyrogyra.com/generalinfo.php Spyro Gyra band home page]
+{{Geographic location
+| Centre = Buffalo
+| North = [[Kenmore, New York|Kenmore]], [[Tonawanda (town), New York|Tonawanda]]
+| Northeast = [[Amherst, New York|Amherst]]
+| East = [[Sloan, New York|Sloan]], [[Cheektowaga, New York|Cheektowaga]]
+| Southeast = [[West Seneca, New York|West Seneca]]
+| South = [[Lackawanna, New York|Lackawanna]]
+| Southwest = [[Lake Erie]]
+| West = [[Fort Erie, Ontario|Fort Erie]], [[Niagara River]]
+| Northwest = [[Grand Island, New York|Grand Island]]
+}}
+{{Buffalo(NY)}}
+{{Erie County, New York}}
+{{New York}}
+
+[[Category:New York State Heritage Areas]]
+[[Category:Buffalo, New York| ]]
+[[Category:Cities in New York]]
+[[Category:Erie Canal]]
+[[Category:Underground Railroad locations]]
+[[Category:Populated places on the Great Lakes]]
+[[Category:Port settlements in the United States]]
+[[Category:County seats in New York]]
+[[Category:Populated places established in 1804]]
+[[Category:Populated places in Erie County, New York]]
+
+[[af:Buffalo, New York]]
+[[ar:بوفالو، نيويورك]]
+[[zh-min-nan:Buffalo, New York]]
+[[bar:Buffalo]]
+[[br:Buffalo (New York)]]
+[[bg:Бъфало]]
+[[ca:Buffalo]]
+[[cs:Buffalo]]
+[[cy:Buffalo, Efrog Newydd]]
+[[da:Buffalo (New York)]]
+[[de:Buffalo]]
+[[et:Buffalo]]
+[[es:Búfalo (Nueva York)]]
+[[eo:Bufalo]]
+[[eu:Buffalo (New York)]]
+[[fa:بوفالو، نیویورک]]
+[[fo:Buffalo]]
+[[fr:Buffalo (New York)]]
+[[gl:Buffalo, Nova York]]
+[[ko:버펄로 (뉴욕 주)]]
+[[hi:बफ़ेलो , न्यूयॉर्क]]
+[[io:Buffalo, Nova-York]]
+[[id:Buffalo, New York]]
+[[os:Буффало]]
+[[it:Buffalo]]
+[[he:באפלו]]
+[[jv:Buffalo, New York]]
+[[kn:ಬಫಲೋ, ನ್ಯೂಯಾರ್ಕ್‌]]
+[[ka:ბუფალო]]
+[[kw:Buffalo, Evrek Nowydh]]
+[[sw:Buffalo, New York]]
+[[ht:Buffalo, New York]]
+[[la:Bufalum]]
+[[lv:Bufalo]]
+[[lt:Bafalas]]
+[[hu:Buffalo]]
+[[mk:Бафало (Њујорк)]]
+[[mr:बफेलो, न्यू यॉर्क]]
+[[ms:Buffalo, New York]]
+[[nl:Buffalo (New York)]]
+[[ja:バッファロー (ニューヨーク州)]]
+[[no:Buffalo]]
+[[nn:Buffalo i New York]]
+[[oc:Buffalo (Nòva York)]]
+[[pnb:بوفیلو]]
+[[pl:Buffalo]]
+[[pt:Buffalo]]
+[[ro:Buffalo, New York]]
+[[qu:Buffalo (New York)]]
+[[ru:Буффало]]
+[[simple:Buffalo, New York]]
+[[sk:Buffalo (New York)]]
+[[sr:Бафало (Њујорк)]]
+[[sh:Buffalo]]
+[[fi:Buffalo (New York)]]
+[[sv:Buffalo, New York]]
+[[tl:Bupalo, Bagong York]]
+[[ta:பஃபலோ (நியூ யோர்க்)]]
+[[te:బఫెలో, న్యూయార్క్]]
+[[th:บัฟฟาโล]]
+[[tr:Buffalo, New York]]
+[[uk:Баффало]]
+[[vi:Buffalo, New York]]
+[[vo:Buffalo (New York)]]
+[[war:Buffalo, New York]]
+[[zh:水牛城]]

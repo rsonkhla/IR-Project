@@ -1,0 +1,2 @@
+Average Doc Size : 428
+No Of Doc : 35

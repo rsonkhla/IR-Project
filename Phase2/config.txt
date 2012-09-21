@@ -1,0 +1,2 @@
+/cse535/lost/lost1/output/AuthorInvIndx, /cse535/lost/lost1/output/CategoryInvIndx, /cse535/lost/lost1/output/Dictionaries, /cse535/lost/lost1/output/DocFwdIndx, /cse535/lost/lost1/output/DocInvIndx, /cse535/lost/lost1/output/SemWiki, 10
+, --okapi, title

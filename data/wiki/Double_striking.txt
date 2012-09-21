@@ -1,0 +1,420 @@
+<<Author>>: Ntsimp-1219859
+<<Timestamp>>: 2011-08-26T00:12:29Z
+<<Comment>>: /* Examples */ add one for P
+<<WikiText>>: {{Redirect|Doublestrike||Double Strike (disambiguation)}}
+{{refimprove|date=May 2010}}
+[[Image:Blackboard bold.svg|right|thumb|250px|An example of blackboard bold letters.]]
+'''Blackboard bold''' is a [[typeface]] style that is often used for certain symbols in [[mathematics|mathematical]] texts, in which certain lines of the symbol (usually vertical or near-vertical lines) are doubled. The symbols usually denote [[Set (mathematics)|number sets]]. Blackboard bold symbols are also referred to as '''double struck''', although they cannot actually be produced by double striking on a [[typewriter]].
+
+In some texts these symbols are simply shown in [[bold type]]: blackboard bold in fact originated from the attempt to write bold letters on [[chalkboard|blackboard]]s in a way that clearly differentiated them from non-bold letters, and then made its way back in print form as a separate style from ordinary bold,<ref name="sci.math-thread">[http://groups.google.com/group/comp.text.tex/browse_thread/thread/55bd03b808263cee/6300d1a3a394ccb9 Google Groups]</ref> possibly starting with the original 1965 edition of [[Robert Gunning (mathematician)|Gunning]] and Rossi's textbook on complex analysis.<ref>{{cite book | last1=Gunning | first1=Robert C. | authorlink1=Robert Gunning (mathematician) | last2=Rossi | first2=Hugo | year=1965 | title=Analytic functions of several complex variables | publisher=Prentice-Hall }}</ref>  Some mathematicians, therefore, do not recognize blackboard bold as a separate style from bold: [[Jean-Pierre Serre]], for example, has publicly inveighed against the use of "blackboard bold" anywhere other than on a blackboard{{Citation needed|date=March 2011}}, and uses double-struck letters when writing bold on the blackboard,<ref>[http://www.dailymotion.com/video/xf88g3_jean-pierre-serre-writing-mathemati_tech "Writing Mathematics Badly" video talk (part 3/3)], starting at 7&prime;08&Prime;</ref> whereas his published works consistently use ordinary bold for the same symbols.<ref>E.g., {{cite book | last=Serre | first=Jean-Pierre | authorlink=Jean-Pierre Serre | title=Cohomologie galoisienne | publisher=Springer-Verlag }}</ref>  It is sometimes erroneously claimed<ref name="sci.math-thread" /> that Bourbaki introduced the blackboard bold notation, but whereas individual members of the Bourbaki group may have popularized double-striking bold characters on the blackboard, their printed books use ordinary bold.<ref>E.g., {{cite book | last=Bourbaki | first=Nicolas | authorlink=Nicolas Bourbaki | title=Théorie des ensembles | publisher=Herman | year=1970 }}</ref>
+
+The symbols are nearly universal in their interpretation, unlike their normally-typeset counterparts, which are used for many different purposes.
+
+[[TeX]], the standard typesetting system for mathematical texts, does not contain direct support for blackboard bold symbols, but the add-on AMS Fonts package (<code>amsfonts</code>) by the [[American Mathematical Society]] provides this facility; a blackboard bold '''R''' is written as <code>\mathbb{R}</code>.
+
+In [[Unicode]], a few of the more common blackboard bold characters ('''C''', '''H''', '''N''', '''P''', '''Q''', '''R''' and '''Z''') are encoded in the [[Mapping of Unicode characters#Basic Multilingual Plane|Basic Multilingual Plane (BMP)]] in the ''Letterlike Symbols (2100–214F)'' area, named DOUBLE-STRUCK CAPITAL C etc. The rest, however, are encoded outside the BMP, from <code>U+1D538</code> to <code>U+1D550</code> (uppercase, excluding those encoded in the BMP), <code>U+1D552</code> to <code>U+1D56B</code> (lowercase) and <code>U+1D7D8</code> to <code>U+1D7E1</code> (digits). Being outside the BMP, these are relatively new and not widely supported.
+
+== Examples ==
+
+The following table shows all available Unicode blackboard bold characters.
+
+The first column shows the letter as typically rendered by the ubiquitous [[LaTeX]] markup system. The second column shows the Unicode codepoint. The third column shows the symbol itself (which will only display correctly if your browser supports Unicode and has access to a suitable font). The fourth column describes known typical (but not universal) usage in mathematical texts.
+
+{| summary="Blackboard Bold Characters" class="wikitable"
+![[Image:LaTeX  logo.svg|48px|\LaTeX]]
+!Unicode (Hex)
+!Symbol
+!Mathematics usage
+|-
+|<math>\mathbb{A}</math>
+|<code>U+1D538</code>
+|<big>{{Unicode|𝔸}}</big>
+|Represents [[affine space]] or the [[adele ring|ring of adeles]]. Sometimes represents the [[algebraic number]]s, the [[algebraic closure]] of '''Q''' ({{Unicode|ℚ}} or <span style="text-decoration: overline">{{Unicode|ℚ}}</span>, although <span style="text-decoration: overline">'''Q'''</span> is often used instead).  It may also represent the [[algebraic integer]]s, an important subring of the algebraic numbers.
+|-
+|
+|<code>U+1D552</code>
+|<big>{{Unicode|𝕒}}</big>
+|
+|-
+|<math>\mathbb{B}</math>
+|<code>U+1D539</code>
+|<big>{{Unicode|𝔹}}</big>
+|Sometimes represents a [[ball (mathematics)|ball]], a [[boolean domain]], or the [[Brauer group]] of a field.
+|-
+|
+|<code>U+1D553</code>
+|<big>{{Unicode|𝕓}}</big>
+|
+|-
+|<math>\mathbb{C}</math>
+|<code>U+2102</code>
+|<big>{{Unicode|ℂ}}</big>
+|Represents the [[complex number]]s.
+|-
+|
+|<code>U+1D554</code>
+|<big>{{Unicode|𝕔}}</big>
+|
+|-
+|<math>\mathbb{D}</math>
+|<code>U+1D53B</code>
+|<big>{{Unicode|𝔻}}</big>
+|Represents the unit ([[open]]) disk in the [[complex plane]] (for example as a model of the [[Hyperbolic geometry|Hyperbolic plane]]), or the decimal fractions (see [[number]]).
+|-
+|
+|<code>U+1D555</code>
+|<big>{{Unicode|𝕕}}</big>
+|
+|-
+|<math>D\!\!\!\!D</math>
+|<code>U+2145</code>
+|<big>{{Unicode|ⅅ}}</big>
+|
+|-
+|<math>d\!\!\!\!d</math>
+|<code>U+2146</code>
+|<big>{{Unicode|ⅆ}}</big>
+|May represent the [[differential (calculus)|differential]] symbol.
+|-
+|<math>\mathbb{E}</math>
+|<code>U+1D53C</code>
+|<big>{{Unicode|𝔼}}</big>
+|Represents the [[expected value]] of a [[random variable]], or [[Euclidean space]].
+|-
+|
+|<code>U+1D556</code>
+|<big>{{Unicode|𝕖}}</big>
+|
+|-
+|<math>e\!\!e</math>
+|<code>U+2147</code>
+|<big>{{Unicode|ⅇ}}</big>
+|Sometimes used for the mathematical constant ''[[e (mathematical constant)|e]]''.
+|-
+|<math>\mathbb{F}</math>
+|<code>U+1D53D</code>
+|<big>{{Unicode|𝔽}}</big>
+|Represents a [[Field (mathematics)|field]].  Often used for [[finite field]]s, with a subscript to indicate the order.  Also represents a [[Hirzebruch surface]] or a [[free group]], with a subset to indicate the number of generators (or generating set, if infinite).
+|-
+|
+|<code>U+1D557</code>
+|<big>{{Unicode|𝕗}}</big>
+|
+|-
+|<math>\mathbb{G}</math>
+|<code>U+1D53E</code>
+|<big>{{Unicode|𝔾}}</big>
+|Represents a [[Grassmannian]] or a [[group (mathematics)|group]], especially an [[algebraic group]].
+|-
+|
+|<code>U+1D558</code>
+|<big>{{Unicode|𝕘}}</big>
+|
+|-
+|<math>\mathbb{H}</math>
+|<code>U+210D</code>
+|<big>{{Unicode|ℍ}}</big>
+|Represents the [[quaternions]] (the H stands for [[William Rowan Hamilton|Hamilton]]), or the [[upper half-plane]], or [[hyperbolic space]], or [[hyperhomology]] of a complex.
+|-
+|
+|<code>U+1D559</code>
+|<big>{{Unicode|𝕙}}</big>
+|
+|-
+|<math>\mathbb{I}</math>
+|<code>U+1D540</code>
+|<big>{{Unicode|𝕀}}</big>
+|
+|-
+|
+|<code>U+1D55A</code>
+|<big>{{Unicode|𝕚}}</big>
+|
+|-
+|<math>i\!i</math>
+|<code>U+2148</code>
+|<big>{{Unicode|ⅈ}}</big>
+|Occasionally used for the [[imaginary unit]].
+|-
+|<math>\mathbb{J}</math>
+|<code>U+1D541</code>
+|<big>{{Unicode|𝕁}}</big>
+|Sometimes represents the [[irrational number]]s, '''R'''\'''Q''' ({{Unicode|ℝ\ℚ}}).
+|-
+|
+|<code>U+1D541</code>
+|<big>{{Unicode|𝕛}}</big>
+|
+|-
+|<math>j\!\!j</math>
+|<code>U+2149</code>
+|<big>{{Unicode|ⅉ}}</big>
+|
+|-
+|<math>\mathbb{K}</math>
+|<code>U+1D542</code>
+|<big>{{Unicode|𝕂}}</big>
+|Represents a [[Field (mathematics)|field]]. This is derived from the [[German language|German]] word ''Körper'', which is German for field (literally, "body"; cf. the French term ''corps'').  May also be used to denote a [[compact space]].
+|-
+|
+|<code>U+1D55C</code>
+|<big>{{Unicode|𝕜}}</big>
+|
+|-
+|<math>\mathbb{L}</math>
+|<code>U+1D543</code>
+|<big>{{Unicode|𝕃}}</big>
+|Represents the [[Lefschetz motive]]. See [[Motive (algebraic geometry)|motives]].
+|-
+|
+|<code>U+1D55D</code>
+|<big>{{Unicode|𝕝}}</big>
+|
+|-
+|<math>\mathbb{M}</math>
+|<code>U+1D544</code>
+|<big>{{Unicode|𝕄}}</big>
+|
+|-
+|
+|<code>U+1D55E</code>
+|<big>{{Unicode|𝕞}}</big>
+|
+|-
+|<math>\mathbb{N}</math>
+|<code>U+2115</code>
+|<big>{{Unicode|ℕ}}</big>
+|Represents the [[natural number]]s. May or may not include [[0 (number)|zero]].
+|-
+|
+|<code>U+1D55F</code>
+|<big>{{Unicode|𝕟}}</big>
+|
+|-
+|<math>\mathbb{O}</math>
+|<code>U+1D546</code>
+|<big>{{Unicode|𝕆}}</big>
+|Represents the [[octonion]]s.
+|-
+|
+|<code>U+1D560</code>
+|<big>{{Unicode|𝕠}}</big>
+|
+|-
+|<math>\mathbb{P}</math>
+|<code>U+2119</code>
+|<big>{{Unicode|ℙ}}</big>
+|Represents [[projective space]], the [[probability]] of an event, the [[prime number]]s, a [[power set]], the positive reals, the [[Irrational number#The set of all irrationals|irrational numbers]], or a [[forcing (mathematics)|forcing]] [[partially ordered set]] (poset).
+|-
+|
+|<code>U+1D561</code>
+|<big>{{Unicode|𝕡}}</big>
+|
+|-
+|<math>\mathbb{Q}</math>
+|<code>U+211A</code>
+|<big>{{Unicode|ℚ}}</big>
+|Represents the [[rational number]]s. (The Q stands for [[quotient]].)
+|-
+|
+|<code>U+1D562</code>
+|<big>{{Unicode|𝕢}}</big>
+|
+|-
+|<math>\mathbb{R}</math>
+|<code>U+211D</code>
+|<big>{{Unicode|ℝ}}</big>
+|Represents the [[real number]]s.
+|-
+|
+|<code>U+1D563</code>
+|<big>{{Unicode|𝕣}}</big>
+|
+|-
+|<math>\mathbb{S}</math>
+|<code>U+1D54A</code>
+|<big>{{Unicode|𝕊}}</big>
+|Represents the [[sedenion]]s, or a [[sphere]].
+|-
+|
+|<code>U+1D564</code>
+|<big>{{Unicode|𝕤}}</big>
+|
+|-
+|<math>\mathbb{T}</math>
+|<code>U+1D54B</code>
+|<big>{{Unicode|𝕋}}</big>
+|Represents a [[torus]], or the [[circle group]] or a [[Hecke algebra]] (Hecke denoted his operators as ''T''<sub>''n''</sub> or {{Unicode|𝕋}}<sub>{{Unicode|𝕟}}</sub>).
+|-
+|
+|<code>U+1D565</code>
+|<big>{{Unicode|𝕥}}</big>
+|
+|-
+|<math>\mathbb{U}</math>
+|<code>U+1D54C</code>
+|<big>{{Unicode|𝕌}}</big>
+|
+|-
+|
+|<code>U+1D566</code>
+|<big>{{Unicode|𝕦}}</big>
+|
+|-
+|<math>\mathbb{V}</math>
+|<code>U+1D54D</code>
+|<big>{{Unicode|𝕍}}</big>
+|Represents a [[vector space]].
+|-
+|
+|<code>U+1D567</code>
+|<big>{{Unicode|𝕧}}</big>
+|
+|-
+|<math>\mathbb{W}</math>
+|<code>U+1D54E</code>
+|<big>{{Unicode|𝕎}}</big>
+|Represents the [[whole number]]s (here in the sense of non-negative integers), which also are represented by ''N''<sub>0</sub>.
+|-
+|
+|<code>U+1D568</code>
+|<big>{{Unicode|𝕨}}</big>
+|
+|-
+|<math>\mathbb{X}</math>
+|<code>U+1D54F</code>
+|<big>{{Unicode|𝕏}}</big>
+|Occasionally used to denote an arbitrary [[metric space]].
+|-
+|
+|<code>U+1D569</code>
+|<big>{{Unicode|𝕩}}</big>
+|
+|-
+|<math>\mathbb{Y}</math>
+|<code>U+1D550</code>
+|<big>{{Unicode|𝕐}}</big>
+|
+|-
+|
+|<code>U+1D56A</code>
+|<big>{{Unicode|𝕪}}</big>
+|
+|-
+|<math>\mathbb{Z}</math>
+|<code>U+2124</code>
+|<big>{{Unicode|ℤ}}</big>
+|Represents the [[integer]]s. (The Z is for ''Zahlen'', which is German for "numbers".)
+|-
+|
+|<code>U+1D56B</code>
+|<big>{{Unicode|𝕫}}</big>
+|
+|-
+|
+|
+|
+|
+|-
+|
+|<code>U+213E</code>
+|<big>{{Unicode|ℾ}}</big>
+|
+|-
+|
+|<code>U+213D</code>
+|<big>{{Unicode|ℽ}}</big>
+|
+|-
+|
+|<code>U+213F</code>
+|<big>{{Unicode|ℿ}}</big>
+|
+|-
+|
+|<code>U+213C</code>
+|<big>{{Unicode|ℼ}}</big>
+|
+|-
+|
+|<code>U+2140</code>
+|<big>{{Unicode|⅀}}</big>
+|
+|-
+|
+|
+|
+|
+|-
+|
+|<code>U+1D7D8</code>
+|<big>{{Unicode|𝟘}}</big>
+|
+|-
+|
+|<code>U+1D7D9</code>
+|<big>{{Unicode|𝟙}}</big>
+|Often represents, in [[set theory]], the [[Greatest element|top element]]  of a forcing [[partially ordered set]] (poset), or occasionally for the  identity matrix in a [[matrix ring]].
+|-
+|
+|<code>U+1D7DA</code>
+|<big>{{Unicode|𝟚}}</big>
+|
+|-
+|
+|<code>U+1D7DB</code>
+|<big>{{Unicode|𝟛}}</big>
+|
+|-
+|
+|<code>U+1D7DC</code>
+|<big>{{Unicode|𝟜}}</big>
+|
+|-
+|
+|<code>U+1D7DD</code>
+|<big>{{Unicode|𝟝}}</big>
+|
+|-
+|
+|<code>U+1D7DE</code>
+|<big>{{Unicode|𝟞}}</big>
+|
+|-
+|
+|<code>U+1D7DF</code>
+|<big>{{Unicode|𝟟}}</big>
+|
+|-
+|
+|<code>U+1D7E0</code>
+|<big>{{Unicode|𝟠}}</big>
+|
+|-
+|
+|<code>U+1D7E1</code>
+|<big>{{Unicode|𝟡}}</big>
+|
+|}
+
+A blackboard bold Greek letter mu (not found in Unicode) is sometimes used by number theorists and algebraic geometers (with a subscript ''n'') to designate the group (or more specifically [[group scheme]]) of ''n''-th roots of unity.<ref>{{cite book | last=Milne | first=James S. | title=Étale cohomology | publisher=Princeton University Press | year=1980 | page=xiii }}</ref>
+
+==See also==
+*[[Mathematical alphanumeric symbols]]
+*[[Set notation]]
+
+==References==
+*{{MathWorld|title=Doublestruck|urlname=Doublestruck}}
+<references/>
+
+==External links==
+*http://www.w3.org/TR/MathML2/double-struck.html shows blackboard bold symbols together with their Unicode encodings. Encodings in the Basic Multilingual Plane are highlighted in yellow.
+
+[[Category:Mathematical notation]]
+[[Category:Mathematical typefaces]]
+
+[[af:Blackboard bold]]
+[[es:Blackboard bold]]
+[[fr:Blackboard gras]]
+[[ko:칠판 볼드체]]
+[[pt:Blackboard bold]]

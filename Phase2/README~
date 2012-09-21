@@ -1,0 +1,25 @@
+Steps to make:
+1. cd ./falcon/Debug
+2. make clean
+3. make
+
+Steps to run:
+1. ./falcon/Debug/falcon -r config.txt topics.TREC 	(for batch mode)
+   ./falcon/Debug/falcon -s config.txt			(for online mode)
+2. config file parameters
+	- param[1] : path of author inverted index directory.
+	- param[2] : path of category inverted index directory. 
+	- param[3] : path of dictinaries directory.
+	- param[4] : path of document forward index directory.
+	- param[5] : path of document inverted director. 
+	- param[6] : path of semwiki directory.
+	- param[7] : number of barrels.
+	- param[8] : mode [--boolean, --cosine or --okapi]. 
+	- param[9] : zone [title, narr or title_narr].
+3. output for batch mode will be generated in the current folder as resultOutput.txt
+4. sample queries
+	- [10] <new york> [author=] [category=]
+	- [10] <new york> [author=cluebot_ng] [category=]
+	- [10] <new york> [author=] [category=Erie Canal]
+	- [10] <new york> [author=cluebot_ng] [category=Erie Canal]
+

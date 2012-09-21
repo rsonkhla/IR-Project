@@ -1,0 +1,66 @@
+#include <iostream>
+#include "CommonSettingsAndUtilities.h"
+#include "Parameters.h"
+#include "QuerryProcessor.h"
+
+using namespace std;
+
+void PrintInputError();
+
+int main(int argc, char* argv[])
+{
+	int argCount	= 0;
+
+	#ifdef MY_WINDOWS
+		argCount	= 0;
+	#else
+		argCount	= 0;
+	#endif	
+
+	if(argc < argCount+1)
+	{
+		PrintInputError();
+		return 1;
+	}
+
+	string mode;
+	string batchFile;
+	
+	mode = argv[argCount+1];
+	Parameters params(argv[argCount+2]);	
+
+	QuerryProcessor queryProcessor(params);
+	queryProcessor.dumpAuthorLinks();
+
+/*
+	if(mode == "-r")
+	{
+		if(argc < 3)
+		{
+			PrintInputError();
+			return 1;
+		}
+		batchFile	= argv[argCount+3];
+		queryProcessor.ProcessInBatchMode(batchFile);
+	}
+	else if(mode == "-s")
+	{
+		queryProcessor.ProcessInRealTimeMode();
+	}
+	else
+	{
+		PrintInputError();
+		return 1;
+	}
+*/
+	
+}
+
+void PrintInputError()
+{
+	cout << "Error : Input parameters are not correct." << endl;
+	cout << "	     Valid arguments are" << endl;
+	cout << "	     ./falcon [-r] <config file>" << endl;
+	cout << "	     OR" << endl;
+	cout << "	     ./falcon [-s] <config file>" << endl << endl;
+}

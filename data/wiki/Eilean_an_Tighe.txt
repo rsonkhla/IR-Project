@@ -1,0 +1,44 @@
+<<Author>>: Ben MacDui-2259739
+<<Timestamp>>: 2011-04-17T11:07:06Z
+<<Comment>>: /* External links */ Category:Shiant Isles
+<<WikiText>>: {{distinguish|Eilean Tigh}}
+''Please note "Eilean an Taighe", or "Eilean Taigh" is a fairly common island name''
+[[Image:Shiant Isles.jpg|thumb|250px|looking from Eilean Garbh to Eilean an Taighe on the right and [[Eilean Mhuire]] in the distance.]]
+[[Image:Garbh Eilean2.jpg|thumb|Beach between the two main islands of the Shiants ([[Garbh Eilean]] and Eilean an Taighe)]]
+
+'''Eilean an T(a)ighe''' or '''Eilean an T(a)igh''', meaning "home island",  is one of the [[Shiant Isles]]. It is joined to [[Garbh Eilean]] by an isthmus and both form part of a single island.
+
+==History==
+Prior to the 1820s the island was called ''Eilean na Cille'' ("church island")<ref name=HS>Haswell-Smith (2004) pp. 275-76.</ref> and there is evidence of a church, possibly dedicated to the Virgin Mary, near the site of the present cottage.<ref>Haswell-Smith (2004) pp. 277-78.</ref><ref name=Shiants>{{cite web| url=http://www.shiantisles.net/index.html| title=Shiant Islands| accessdate=2007-07-21}}</ref> [[Eilean Mhuire]], one of the other islands in the Shiants also takes its name from Mary.
+
+Forty people were living here in the mid 19th century but by 1770 they had all left. In the 1820s a shepherd  and his wife were resident, but they too had gone by 1842. In 1862 another shepherd, Donald Campbell, and his wife and two daughters were there, the family only leaving in 1901. The daughters, Mòr and Catriona, were apparently very beautiful and attracted the attention of visiting fishermen and yachtsmen alike.<ref name=HS/>
+
+In 1937 the islands were acquired by [[Nigel Nicolson]], then an undergraduate at Oxford, who like former owner [[Compton MacKenzie]], was later a writer, publisher and politician. Nicolson's son, the writer [[Adam Nicolson]], published the definitive book on the islands, ''Sea Room''.  The Shiants now belong to Adam's son Tom. Sheep belonging to a Lewis crofter graze all three islands.  The simple [[bothy]] restored by Nigel Nicolson on Eilean an Taighe is currently the only habitable structure on the islands. <ref name=Nicolson>Nicholson, Adam ''Sea Room: an island life'' [[Harper Collins]], 2001 (ISBN 0-00-257164-1)</ref>
+
+==Footnotes==
+{{reflist}}
+
+==Bibliography==
+* {{Haswell-Smith}}
+* {{cite_book|
+  | last = Nicolson
+  | first = Adam
+  | authorlink = Adam Nicolson
+  | title = Sea Room: an island life
+  | publisher = [[Harper Collins]]
+  | year = 2001
+  | id = ISBN 0-00-257164-1}}
+
+==External links==
+* [http://www.shiantisles.net Site about the Shiant Isles]
+
+{{Shiant Isles}}
+
+{{coord|57|53|24|N|6|21|14|W|region:GB_type:isle|display=title}}
+
+[[Category:Shiant Isles]]
+[[Category:Sites of Special Scientific Interest in Western Isles North]]
+
+{{WesternIsles-geo-stub}}
+
+[[nn:Eilean an Taighe]]

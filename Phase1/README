@@ -1,0 +1,24 @@
+Steps to make:
+1. cd ./falcon/Debug
+2. make clean
+3. make
+
+Steps to run:
+1. ./falcon/Debug/falcon -i config.txt
+2. config file parameters
+	- param[1] : absolute path of data directory.
+	- param[2] : absolute path of index director. Note we are currently not using this directory. All files are dumped in the output directory
+	- param[3] : absolute path of outout directory.
+
+Structure of output directory:
+./output 
+	AuthorInvIndx
+	CategoryInvIndx
+	Dictionaries
+	DocFwdIndx
+	DocInvIndx
+	SemWiki
+	TempAuthorInvIndx
+	TempCategoryInvIndx
+	TempInvIndx
+

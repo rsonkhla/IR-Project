@@ -1,0 +1,14 @@
+ ,1
+Cities in New York,2
+County seats in New York,7
+Erie Canal,3
+Mathematical notation,10
+Mathematical typefaces,11
+New York State Heritage Areas,0
+Populated places established in 1804,8
+Populated places in Erie County, New York,9
+Populated places on the Great Lakes,5
+Port settlements in the United States,6
+Shiant Isles,12
+Sites of Special Scientific Interest in Western Isles North,13
+Underground Railroad locations,4
